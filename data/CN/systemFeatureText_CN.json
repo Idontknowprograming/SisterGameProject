@@ -1,0 +1,379 @@
+{
+  "gameTitle": [
+    "和存在感薄弱少女一起的简单生活"
+  ],
+  "versionAnnotation": {
+    "majorTitle": "游戏主版本 (version ${})",
+    "majorBody": [
+      "当集中追加了新的游戏事件与玩法内容时，主版本号将发生变化",
+      "你需要登录已通过正版验证的账号，才能获取新的游戏版本",
+      "你也可以前往购买平台，手动重新下载最新版本的游戏"
+    ],
+    "patchTitle": "小版本补丁 (patch ${})",
+    "patchBody": [
+      "主要用于定期提供错误修复与游戏体验优化",
+      "部分实验性的新内容也可能会通过补丁更新提前提供体验",
+      "补丁更新发布后，你可以在游戏内自动收到更新提醒"
+    ],
+    "revisionTitle": "修订版本 (revision ${})",
+    "revisionBody": [
+      "过于频繁地弹窗提醒玩家更新并不优雅",
+      "因此，一些紧急修复或细节调整将通过静默更新自动完成",
+      "静默更新完成后，你需要重新启动游戏才能载入最新数据",
+      "(静默更新功能需要能够正常连接 GitHub 才能触发)"
+    ]
+  },  
+  "goldHeld": [
+    "持有金"
+  ],
+  "quantityHeld": [
+    "\\fs[18]•持有数量:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "检测到可同步的${}版本游戏数据，是否立即下载并更新？"
+  ],
+  "fullScreen": [
+    "全屏显示"
+  ],
+  "masterVolume": [
+    "主音量"
+  ],
+  "voiceVolume": [
+    "角色 音量"
+  ],
+  "BgmVolume": [
+    "背景音乐 音量"
+  ],
+  "BgsVolume": [
+    "背景音效 音量"
+  ],
+  "SeVolume": [
+    "效果音 音量"
+  ],
+  "MaxPlayerMsgs": [
+    "玩家讯息最大显示数量"
+  ],
+  "GameFAQ": [
+    "游戏攻略"
+  ],
+  "ShowWeaponDurability": [
+    "武器耐久度常时显示"
+  ],
+  "fullUIMode": [
+    "按钮常驻高亮"
+  ],
+  "LockedFPS": [
+    "锁定60帧"
+  ],
+  "FPSDisplay": [
+    "显示FPS监视器"
+  ],
+  "ZakoMode": [
+    "杂鱼模式"
+  ],
+  "Language": [
+    "游戏语言"
+  ],
+  "loadConfirm": [
+    "现在要读档吗？"
+  ],
+  "OverwriteConfirmed": [
+    "现在要存档吗？"
+  ],
+  "SVConfirmText": [
+    "是",
+    "否"
+  ],
+  "EnterCheatCode": [
+    "杂鱼~♥ 杂鱼~♥",
+    "在这输入作弊码..."
+  ],
+  "AnnouncementMenu": [
+    "最新公告",
+    "更新日志"
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "检测到${}份来自旧版本（MV版）的存档数据。",
+    "是否将这些存档转换为当前 MZ 版本格式，以便继续读取和使用？"
+  ],
+  "mvSaveToMzConvertTipsText": [
+    "将MV版本的存档文件放入save文件夹后，系统会自动触发存档转换流程。",
+    "转换成功后，存档将被转换为当前MZ版本可读取的格式，并会显示在读档界面中。",
+    "该流程不会删除原本的MV版本存档，但如果相同编号的MZ版本存档已经存在，则不会再次触发转换。",
+    "目前该功能仍处于开发测试阶段。如果你认为转换后出现了数据丢失，",
+    "请妥善保留原 MV 版本存档，并前往我们的 Discord 服务器报告此问题。"
+  ],
+  "mvSaveToMzFailed": "没有需要转换的存档。",
+  "mvSaveToMzSuccess": [
+    "成功转换${}份存档数据。",
+    "已向读档界面新增槽位记录："
+  ],
+  "UpdateComplete1": [
+    "游戏自动更新完成！",
+    "关闭该弹窗后将自动重启游戏以适配更新内容！",
+    "重启后可以读取自动存档回到当前进度！"
+  ],
+  "UpdateComplete2": [
+    "游戏自动更新完成！",
+    "游戏即将自动重启以适配更新内容！"
+  ],
+  "RemindToUpdate": [
+    "检测到游戏出现错误并已冻结！",
+    "目前游戏已经有更高版本的补丁发布，",
+    "请通过自动更新应用补丁修复问题！"
+  ],
+  "cloudSaveServiceWarning": [
+    "这是基于Google Drive的旧版本云存档功能，",
+    "由于正式的云存档系统已完成建设，",
+    "该功能已计划在未来的版本废弃移除！",
+    " ",
+    "本云存档将连接至您的Google Drive",
+    "以便将游戏存档存储至 NLCH/save 文件夹中。",
+    "上传的存档文件仅用于后续同步与下载回游戏，不会用于其他用途。",
+    "是否同意授予游戏访问 Google Drive 的权限？"
+  ],
+  "uploadSaveFile": [
+    "从Google Drive下载存档将会覆盖您当前的本地存档文件！",
+    "是否继续操作？"
+  ],
+  "bagFull": [
+    "超出背包上限！！"
+  ],
+  "noStatusEffects": [
+    "什么状态也没有！"
+  ],
+  "unimplementedDoor": [
+    "这扇门无法从这一侧打开"
+  ],
+  "zipUpdateComplete": [
+    "补丁安装成功，",
+    "即将重启游戏以应用更新！"
+  ],
+  "zipUpdateFail": [
+    "补丁解压安装失败！",
+    "请重新尝试自动更新或",
+    "手动解压补丁文件进行安装！"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${}文件下载成功！"
+  ],
+  "fileDownloadFailed": [
+    "${}文件下载失败！正在重新尝试下载！"
+  ],
+  "installPatch": [
+    "检测到需要解压缩安装的补丁，正在解压缩安装——这个过程可能游戏画面会卡顿，请耐心等候！"
+  ],
+  "totalFilesToUpdate": [
+    "检测到${}个文件需要更新——开始下载流程！"
+  ],
+  "silentUpdateSuccess": [
+    "成功安装了${}的新增补丁内容，将在下次重启游戏时生效！"
+  ],
+  "outdatedVersionWarning": [
+    "检测到游戏主要版本已更新，最新版本为 ${}。",
+    "主要版本的自动更新功能仅对已完成正版验证的登录用户开放。",
+    "若无法完成正版验证，请前往购买游戏的平台重新下载并安装最新版本。",
+    "更新后可手动迁移存档，或使用游戏的云存档功能继承游戏进度。"
+  ],
+  "renameCharacter": [
+    "我想起来了——",
+    "她就是——"
+  ],
+  "heroName": [
+    "哥哥"
+  ],
+  "heroineName": [
+    "妹妹"
+  ],
+  "nonHardwareAccelerated": [
+    "检测到游戏当前未使用独立显卡进行渲染！",
+    "如果您的电脑配备了独立显卡，为了获得更流畅的游戏体验，",
+    "请在显卡控制面板中为 Game.exe 重新设置首选图形处理器。"
+  ],
+  "isAmdCPU": [
+    "检测到本机 CPU 为 AMD 品牌。",
+    "部分 AMD 芯片在 Chromium 环境下播放 VP9（WebM）视频时",
+    "可能会出现掉帧现象。遇到此类问题时，您可以尝试",
+    "强制切换使用 GPU 渲染游戏，或更新驱动程序以缓解该问题。"
+  ],
+  "failedToLoad": [
+    "此类问题可能由以下情况导致：",
+    "①游戏在解压安装过程中因为编码问题出现乱码文件名或已经损坏",
+    "②开发者忘记添加此文件，请等待补丁更新修复"
+  ],
+  "nearbyMonstersCount": [
+    "侦查到附近的魔物"
+  ],
+  "nearbyTreasuresCount": [
+    "侦查到附近的遗物"
+  ],
+  "underwaterTreasuresCount": [
+    "侦查到水下的遗物"
+  ],
+  "guideHint": [
+    "按Ctrl+F可打开搜索栏、点击文档下方的按钮可切换文档内容。"
+  ],
+  "steamWishlist": [
+    "我们的 Steam 商店页面已经上线啦！",
+    "欢迎添加到心愿单支持我们！  (*´∀`)~♥",
+    "⬇点击即可跳转到Steam页面"
+  ],
+  "tipSaveMobile": [
+    "安卓版本因为权限敏感问题，暂不支持快捷打开存档目录！",
+    "请自行前往检查/storage/emulated/0/Documents/sister_save路径检查存档文件！",
+    "你可以自由转移来自其他设备或PC版本的存档继承数据。"
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "这是目前仍在实验中的正版验证功能。",
+      "你可以在此登录 Patreon 账号，",
+      "或额外绑定 Itch 账号进行正版身份验证。",
+      "若账号拥有有效订阅，或已在Itch拥有游戏入库记录，",
+      "即可获得大版本自动更新等功能权限。",
+      "请注意：",
+      "目前仅支持验证通过 Itch 或 Patreon 购买过游戏，",
+      "或在 Patreon 进行付费订阅的玩家！"
+    ],
+    "shortHint": "可启用云存档与大版本自动更新功能",
+    "waitingLogin": "等待登录验证流程完成……",
+    "notLoggedIn": "还未进行登录验证…",
+    "RequestingLogin": "正在发起登录请求……",
+    "openingWindow": "正在打开登录窗口……",
+    "chooseLoginMethod": "请选择用于登录的平台",
+    "openingWindowItch": "正在打开itch.io登录窗口……",
+    "cloudSave": "启用云存档",
+    "logInFirst": "请先点击此按钮进行登录",
+    "CheckUpdates": "更新至最新版本",
+    "Subscribed": "已确认为赞助者或验证玩家！",
+    "NotSubscribed": "未确认到付费凭证或游戏入库记录，无法使用部分功能！",
+    "lastCheck": "最近登录时间： ",
+    "checkLatestVersion": "正在检查最新的版本号，请稍等……",
+    "isLatestVersion": "已经是最新版本啦！",
+    "notSponsor": "非验证用户请先进行赞助！",
+    "ImoutoFavorite": "妹妹的最爱！",
+    "nonItchUser": "在Itch中未检测到你拥有本游戏！",
+    "additionalPlatformVerifyNotice": [
+      "可额外绑定其他平台的账号信息以继承",
+      "同一个playerId数据！"
+    ],
+    "majorUpdateFailed": [
+      "大版本更新失败！",
+      "错误代码： ${}",
+      "请重新尝试登录验证并发起更新，",
+      "或者将此截图发送至我们的 Discord 服务器以获取帮助！"
+    ]
+  },
+  "cloudSave": {
+    "title": "云存档",
+    "lastSync": "上次同步时间：",
+    "neverSynced": "从未同步",
+    "nextUploadIn": "（距离触发下一次上传还有%1小时%2分钟）",
+    "nextSaveWillUpload": "（下次存档时将自动上传存档）",
+    "loading": "正在读取云端存档……",
+    "hint": "选择单个云存档下载，或使用顶部按钮一键同步（将覆盖对应本地存档位）",
+    "empty": "云端还没有存档！",
+    "notLoggedIn": "请先登录后使用云存档功能！",
+    "listFailed": "云端清单获取失败！",
+    "downloading": "正在下载……",
+    "downloadDone": "已恢复到本地存档",
+    "downloadFailed": "云存档下载失败！",
+    "uploading": "正在上传本地存档……",
+    "uploadDone": "上传完成：成功 %1 个，失败 %2 个",
+    "uploadSkipped": "没有需要上传的内容",
+    "confirmDownload": "下载该存档并覆盖本地数据：",
+    "syncAll": "一键同步所有云存档",
+    "confirmSyncAll": [
+      "下载 %1 个未同步的云存档？",
+      "这将覆盖对应的本地存档位。"
+    ],
+    "confirmSyncAllLocalNewer": "注意：%1 个本地存档较新。",
+    "syncAllProgress": "正在同步云存档……%1/%2",
+    "syncAllDone": "云存档同步完成：已恢复 %1 个",
+    "syncAllPartial": "同步完成：成功 %1 个，失败 %2 个",
+    "reconcileChecking": "正在对照本地与云端存档……",
+    "confirmReconcileOverlap": [
+      "【云存档自动同步】",
+      "正在将 %2 个云存档下载至本地——",
+      " ",
+      "检测到本地与云端有 %1 个重叠的存档数据！",
+      "选择【OK】将以云端版本覆盖本地（本地旧存档将丢失）",
+      "选择【Canel】将保留本地版本并于下次同步时上传至云端"
+    ],
+    "reconcileProgress": "正在恢复云存档……%1/%2",
+    "reconcileDone": "自动对照完成：下载 %1 个，覆盖 %2 个，保留本地 %3 个。",
+    "reconcilePartial": "对照完成：成功恢复 %1 个，失败 %2 个。",
+    "reconcileFailed": "云存档自动对照失败，请重新登录后重试。",
+    "reconcileNothing": "云端暂无存档，本地存档将按常规方式同步。",
+    "slotAuto": "自动存档",
+    "slotN": "存档 %1",
+    "statusNoLocal": "仅云端",
+    "statusCloudNewer": "云端版本更新",
+    "statusLocalNewer": "本地版本更新",
+    "statusSynced": "已同步"
+  },
+  "minimapName": {
+    "5": "忘却的墓穴 下層",
+    "9": "沈眠之所…",
+    "10": "遺跡之森",
+    "13": "遺跡之森",
+    "16": "遺跡之森",
+    "18": "冒險者小道 集結地",
+    "26": "遺跡之森",
+    "27": "遺跡之森",
+    "28": "忘却的墓穴 上層",
+    "37": "浅層遺跡迷宮",
+    "40": "開拓中区域",
+    "46": "開拓中区域",
+    "47": "遺跡之森",
+    "48": "冒險者小道:記念碑",
+    "49": "冒險者小道:林間",
+    "50": "？？？墓穴",
+    "51": "星之門",
+    "52": "忘却的墓穴:藏身處",
+    "53": "堕落的聖堂",
+    "55": "大焦熱熔岩帯",
+    "56": "遺跡之森:隠秘的箱庭",
+    "58": "冒險者小道:林間",
+    "59": "開拓中区域",
+    "60": "開拓中区域",
+    "61": "開拓中区域",
+    "62": "冒險者小道:林間"
+  },
+  "AdventurersPathway": {
+    "mapName": "冒險者小道"
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "浅層遺跡迷宮",
+    "mapDescription": "孕育衆多謎団的巨大迷宮"
+  },
+  "ForgottenCatacombe": {
+    "mapName": "忘却的墓穴"
+  },
+  "ForestofRuins": {
+    "mapName": "遺跡之森"
+  },
+  "AbandonedForest": {
+    "mapName": "迷失之森"
+  },
+  "ExcavationSite": {
+    "mapName": "开拓中地区"
+  },
+  "TheFallenChurch": {
+    "mapName": "墮落的聖堂",
+    "mapDescription": "我可愛的羔羊啊！爲何要離棄我而去？"
+  },
+  "ThePureChurch": {
+    "mapName": "无垢的聖堂",
+    "mapDescription": "清心之人有福矣！因爲他們必得見神。"
+  },
+  "DoorofStar": {
+    "mapName": "星之門"
+  },
+  "ScorchingLavaZone": {
+    "mapName": "大焦熱溶岩帶",
+    "mapDescription": "熔火奔涌之地，唯有堅毅者能踏足其境"
+  },
+  "Nibelungen": {
+    "mapName": "尼伯龍根"
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "gameTitle": [
+    "A Simple Life with My Unobtrusive Girl "
+  ],
+  "versionAnnotation": {
+    "majorTitle": "Major Version ${}",
+    "majorBody": [
+      "The major version changes when new events and gameplay are added",
+      "Log in with a verified account to get the new version",
+      "Or manually download the latest version from the store"
+    ],
+    "patchTitle": "Minor Patch ${}",
+    "patchBody": [
+      "Regular bug fixes and gameplay improvements",
+      "Some experimental content may also be added through patches",
+      "You will receive an in-game notice when a patch is released"
+    ],
+    "revisionTitle": "Revision ${}",
+    "revisionBody": [
+      "Frequent update pop-ups aren't very elegant",
+      "Urgent fixes and minor changes will be applied silently",
+      "Restart the game after a silent update to load the latest data"
+    ]
+  },  
+  "goldHeld": [
+    "Gold"
+  ],
+  "numberDays": [
+    "DAY"
+  ],
+  "tipSaveMobile": [
+    "The Android version doesn’t support quick access to the save directory for now",
+    "due to sensitive permission issues.",
+    "Please go to the '/storage/emulated/0/Documents/sister_save' path yourself",
+    "to check the save files! You’re free to transfer save data from other devices or",
+    "the PC version to inherit your progress."
+  ],
+  "quantityHeld": [
+    "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Update available: Version ${} game data detected. ",
+    "Would you like to download and update now?"
+  ],
+  "fullScreen": [
+    "Full Screen"
+  ],
+  "masterVolume": [
+    "Master Volume"
+  ],
+  "voiceVolume": [
+    "Voice Volume"
+  ],
+  "BgmVolume": [
+    "BGM Volume"
+  ],
+  "BgsVolume": [
+    "BGS Volume"
+  ],
+  "SeVolume": [
+    "SE Volume"
+  ],
+  "MaxPlayerMsgs": [
+    "Max Player Msgs"
+  ],
+  "GameFAQ": [
+    "Game Guide"
+  ],
+  "ShowWeaponDurability": [
+    "Show Weapon Durability"
+  ],
+  "fullUIMode": [
+    "Button Always Highlighted"
+  ],
+  "LockedFPS": [
+    "Locked 60 FPS"
+  ],
+  "FPSDisplay": [
+    "Show FPS Monitor"
+  ],
+  "ZakoMode": [
+    "ZAKO Mode"
+  ],
+  "Language": [
+    "Game Language"
+  ],
+  "loadConfirm": [
+    "Would you like",
+    "to load?"
+  ],
+  "OverwriteConfirmed": [
+    "Would you like",
+    "to save?"
+  ],
+  "SVConfirmText": [
+    "Yes",
+    "No"
+  ],
+  "EnterCheatCode": [
+    "ZAKO~♥ ZAKO~♥",
+    "Enter cheat code here..."
+  ],
+  "AnnouncementMenu": [
+    "Announcements",
+    "Changelogs"
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "${} save data file(s) from an older version (MV version) have been detected.",
+    "Would you like to convert these save files to the current MZ version format ",
+    "so they can continue to be loaded and used?"
+  ],
+  "mvSaveToMzConvertTipsText": [
+    "When you place MV version save files into the save folder, ",
+    "the save conversion process will be triggered automatically.",
+    "After a successful conversion, the save files will be converted into ",
+    "a format readable by the current MZ version and will appear on the Load screen.",
+    " ",
+    "This process will not delete the original MV version save files. ",
+    "However, if an MZ version save file with the same slot number already exists, ",
+    "the conversion will not be triggered again.",
+    " ",
+    "This feature is currently still in development and testing. ",
+    "If you believe any data was lost after conversion,",
+    "please keep your original MV version save files and report the issue on our Discord server."
+  ],
+  "mvSaveToMzFailed": "No save data found that requires conversion.",
+  "mvSaveToMzSuccess": [
+    "Successfully converted ${} save data slot(s).",
+    "New slot records have been added to the Load Game screen:"
+  ],
+  "UpdateComplete1": [
+    "Game update completed!",
+    "The game will restart automatically after closing this window.",
+    "You can load the auto-save to resume progress!"
+  ],
+  "UpdateComplete2": [
+    "Game update completed!",
+    "The game will restart shortly to apply the update!"
+  ],
+  "RemindToUpdate": [
+    "An error has occurred and the game is frozen.",
+    "A newer patch is available—",
+    "Please use auto-update to fix the issue!"
+  ],
+  "bagFull": [
+    "Inventory limit exceeded!!"
+  ],
+  "noStatusEffects": [
+    "No status effects at all!"
+  ],
+  "unimplementedDoor": [
+    "This door won't push open from this side"
+  ],
+  "zipUpdateComplete": [
+    "Patch installed successfully. ",
+    "Restarting the game to apply the update!"
+  ],
+  "zipUpdateFail": [
+    "Failed to extract and install the patch!",
+    "Please try the auto-update again or",
+    "manually extract the patch files to install!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} downloaded successfully!"
+  ],
+  "fileDownloadFailed": [
+    "${} failed to download! Retrying now!"
+  ],
+  "installPatch": [
+    "Patch requires extraction—installing now. This may cause the game to lag, please be patient!"
+  ],
+  "totalFilesToUpdate": [
+    "Detected ${} file(s) to update—starting download process!"
+  ],
+  "silentUpdateSuccess": [
+    "New patch content for ${} has been successfully installed and will take effect upon the next restart."
+  ],
+  "outdatedVersionWarning": [
+    "A major game update is available. The latest version is ${}.",
+    "Automatic updates for major versions are only available to logged-in users who have completed purchase verification.",
+    "If you are unable to complete purchase verification, please download and install the latest version manually from the platform where you purchased the game.",
+    "After updating, you can transfer your save files manually or use the game's cloud save feature to carry over your progress."
+  ],
+  "renameCharacter": [
+    "I remember now—",
+    "she is..."
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "The game is currently running on integrated graphics!",
+    "If your PC has a dedicated GPU, we recommend setting Game.exe ",
+    "to use it in your graphics control panel for a smoother gaming experience."
+  ],
+  "isAmdCPU": [
+    "Your CPU is detected as an AMD processor.",
+    "Some AMD chips may experience frame drops when playing VP9 (WebM) videos ",
+    "in a Chromium environment. If you encounter this issue, try forcing the game to",
+    "use GPU rendering or update your drivers to help alleviate the problem."
+  ],
+  "failedToLoad": [
+    "This kind of issue may be caused by:",
+    "① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.",
+    "② The developer forgetting to include the file—please wait for a patch update to fix it."
+  ],
+  "LowResMode": [
+    "Low Graphics Mode"
+  ],
+  "lowResModeWarning": [
+    "This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.",
+    "When enabled, the game renders maps and images at a lower resolution and then scales them up, ",
+    "reducing GPU load on mobile devices and lowering heat generation and power consumption.",
+    "Note: This is an experimental feature, and its effectiveness may vary depending on the device.",
+    "You can disable this feature at any time to immediately restore full image clarity."
+  ],
+  "cloudSaveServiceWarning": [
+    "This is the legacy Google Drive-based cloud save feature.",
+    "Now that the official cloud save system is complete,",
+    "this feature is scheduled to be deprecated and removed in a future update.",
+    " ",
+    "This cloud save feature will connect to your Google Drive",
+    "and store your game saves in the NLCH/save folder.",
+    "Uploaded save files will only be used for future synchronization and downloading back ",
+    "into the game. They will not be used for any other purpose.",
+    "Do you agree to grant the game access to your Google Drive?"
+  ],
+  "uploadSaveFile": [
+    "Downloading a save file from Google Drive will overwrite your current local save data!",
+    "Do you want to continue?"
+  ],
+  "nearbyMonstersCount": [
+    "Detected nearby monsters"
+  ],
+  "nearbyTreasuresCount": [
+    "Detected nearby treasures"
+  ],
+  "underwaterTreasuresCount": [
+    "Detected underwater treasures"
+  ],
+  "steamWishlist": [
+    "Our Steam store page is finally live!",
+    "Please add us to your wishlist and support us! (*´∀`)~♥",
+    "⬇Click below to open the Steam page."
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "This ownership verification feature is currently experimental.",
+      "You can sign in with Patreon here, ",
+      "or link your Itch account for ownership verification.",
+      "If you have an active subscription, ",
+      "or already own the game on Itch,",
+      "you can use features such as major update auto-patching.",
+      "",
+      "Please note:",
+      "At this time, verification is only available for players ",
+      "who bought the game on Itch or Patreon, ",
+      "or players with a paid Patreon subscription."
+    ],
+    "shortHint": " Can now enable cloud saves & major updates",
+    "waitingLogin": "Waiting for login completion...",
+    "notLoggedIn": "Not Logged In",
+    "RequestingLogin": "Requesting login link...",
+    "openingWindow": "Opening Patreon login window...",
+    "chooseLoginMethod": "Choose a platform to log in with",
+    "openingWindowItch": "Opening the itch.io login window...",
+    "cloudSave": "Use Cloud Save",
+    "logInFirst": "Please click this button to log in first",
+    "CheckUpdates": "Update to Latest Version",
+    "Subscribed": "Confirmed as a sponsor or verified player!",
+    "NotSubscribed": "No active subscription detected. Some features are unavailable.",
+    "lastCheck": "LastCheck: ",
+    "checkLatestVersion": "Checking for the latest version, please wait...",
+    "isLatestVersion": "You are already on the latest version!",
+    "notSponsor": "Unverified users must subscribe first!",
+    "ImoutoFavorite": "Imouto's Favorite",
+    "nonItchUser": "This game was not found in your Itch library!",
+    "additionalPlatformVerifyNotice": [
+      "You can also link accounts from other platforms ",
+      "to share the same playerId data!"
+    ],
+    "majorUpdateFailed": [
+      "Major version update failed!",
+      "Error code: ${}",
+      "Please try logging in for verification and start the update again,",
+      "or send this screenshot to our Discord server for assistance!"
+    ]
+  },
+  "cloudSave": {
+    "title": "Cloud Save",
+    "lastSync": "Last Synced: ",
+    "neverSynced": "Never Synced",
+    "nextUploadIn": "(Next upload can be triggered in %1 hr %2 min)",
+    "nextSaveWillUpload": "(Your cloud save will upload automatically the next time you save)",
+    "loading": "Loading cloud saves...",
+    "hint": "Download one cloud save, or use the top button to sync all (overwrites matching local slots)",
+    "empty": "No saves found in the cloud!",
+    "notLoggedIn": "Please log in first to use the cloud save feature!",
+    "listFailed": "Failed to retrieve cloud save list!",
+    "desktopOnly": "Cloud restore is desktop-only for now",
+    "downloading": "Downloading...",
+    "downloadDone": "Restored to local save",
+    "downloadFailed": "Failed to download cloud save!",
+    "uploading": "Uploading local save...",
+    "uploadDone": "Upload complete: %1 successful, %2 failed",
+    "uploadSkipped": "No content needs to be uploaded",
+    "confirmDownload": "Download and overwrite local save: ",
+    "syncAll": "Sync All Cloud Saves",
+    "confirmSyncAll": [
+      "Download %1 unsynced cloud saves?",
+      "Overwrite the matching local slots."
+    ],
+    "confirmSyncAllLocalNewer": "Warning: %1 local saves are newer.",
+    "syncAllProgress": "Syncing cloud saves... %1/%2",
+    "syncAllDone": "Cloud saves synced: %1 restored",
+    "syncAllPartial": "Sync finished: %1 restored, %2 failed",
+    "reconcileChecking": "Comparing local and cloud saves...",
+    "confirmReconcileOverlap": [
+      "[Cloud Save Auto-Sync]",
+      "Downloading %2 cloud-only saves to local directory...",
+      " ",
+      "Detected %1 conflicting save files between local and cloud!",
+      "Select [OK] to overwrite local saves with cloud versions (local data will be lost).",
+      "Select [Cancel] to keep local saves and upload them to the server during the next sync."
+    ],
+    "reconcileProgress": "Restoring cloud saves... %1/%2",
+    "reconcileDone": "Comparison complete: %1 downloaded, %2 overwritten, %3 kept local.",
+    "reconcilePartial": "Comparison finished: %1 restored, %2 failed.",
+    "reconcileFailed": "Automatic cloud save comparison failed. Sign in again to retry.",
+    "reconcileNothing": "No cloud saves were found; local saves will sync normally.",
+    "slotAuto": "Auto Save",
+    "slotN": "Slot %1",
+    "statusNoLocal": "Cloud Only",
+    "statusCloudNewer": "Cloud Version Newer",
+    "statusLocalNewer": "Local Version Newer",
+    "statusSynced": "Synced"
+  },
+  "minimapName": {
+    "5": "Forgotten Catacombe:Lower Layer",
+    "9": "Land of Slumber…",
+    "10": "Forest of Ruins",
+    "13": "Forest of Ruins",
+    "16": "Forest of Ruins",
+    "18": "Adventurer's Path: Gathering Point",
+    "26": "Forest of Ruins",
+    "27": "Forest of Ruins",
+    "28": "Forgotten Catacombe:Upper Layer",
+    "37": "Shallow Ruins Labyrinth",
+    "40": "Excavation Site",
+    "46": "Excavation Site",
+    "47": "Forest of Ruins",
+    "48": "Adventurer's Path:Monument",
+    "49": "Adventurer's Path:Grove",
+    "50": "??? Tomb",
+    "51": "Star Door",
+    "52": "Forgotten Catacombe:Hideout",
+    "53": "The Fallen Church",
+    "55": "Scorching Lava Zone",
+    "56": "Forest of Ruins:The Hidden Garden",
+    "58": "Adventurer's Path:Grove",
+    "59": "Excavation Site",
+    "60": "Excavation Site",
+    "61": "Excavation Site",
+    "62": "Adventurer's Path:Grove"
+  },
+  "AdventurersPathway": {
+    "mapName": "Adventurer's Pathway"
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "Shallow Ruins Labyrinth",
+    "mapDescription": "A vast labyrinth filled with countless mysteries"
+  },
+  "ForgottenCatacombe": {
+    "mapName": "Forgotten Catacombe"
+  },
+  "ForestofRuins": {
+    "mapName": "Forest of Ruins"
+  },
+  "AbandonedForest": {
+    "mapName": "Abandoned Forest"
+  },
+  "ExcavationSite": {
+    "mapName": "Excavation Site"
+  },
+  "TheFallenChurch": {
+    "mapName": "The Fallen Church",
+    "mapDescription": "My lovely lamb! Why hast thou forsaken me?"
+  },
+  "ThePureChurch": {
+    "mapName": "The Pure Church",
+    "mapDescription": "Blessed are the pure in heart, for they shall see God."
+  },
+  "DoorofStar": {
+    "mapName": "Door of Star"
+  },
+  "ScorchingLavaZone": {
+    "mapName": "Scorching Lava Zone",
+    "mapDescription": "A blazing land woven in fire, where trials burn eternal"
+  },
+  "Nibelungen": {
+    "mapName": "Nibelungen"
+  }
+}

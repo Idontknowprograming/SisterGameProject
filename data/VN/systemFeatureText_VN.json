@@ -1,0 +1,412 @@
+{
+	"gameTitle": [
+		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
+	],
+	"translationNotes": [
+		"Phiên bản tiếng Việt đã được hoàn thành!",
+		"Tuy nhiên, do một số đoạn hội thoại trong trò chơi vẫn chưa được trích xuất đầy đủ bởi nhà phát triển,",
+		"nên trong quá trình chơi có thể tạm thời xuất hiện văn bản tiếng Anh.",
+		"Vui lòng kiên nhẫn chờ các bản cập nhật tiếp theo để được tối ưu hóa hoàn chỉnh hơn!",
+		"Cảm ơn những người đã dịch: ",
+		"Akamine Haruna",
+		"Nian Sprout"
+	],
+	"versionAnnotation": {
+		"majorTitle": "Phiên Bản Chính ${}",
+		"majorBody": [
+			"Phiên bản chính sẽ thay đổi khi có thêm sự kiện và nội dung gameplay mới",
+			"Đăng nhập bằng tài khoản đã xác minh để nhận phiên bản mới",
+			"Hoặc tải thủ công phiên bản mới nhất từ cửa hàng"
+		],
+		"patchTitle": "Bản Vá Nhỏ ${}",
+		"patchBody": [
+			"Sửa lỗi và cải thiện gameplay định kỳ",
+			"Một số nội dung thử nghiệm cũng có thể được bổ sung thông qua các bản vá",
+			"Bạn sẽ nhận được thông báo trong game khi có bản vá mới"
+		],
+		"revisionTitle": "Bản chỉnh sửa ${}",
+		"revisionBody": [
+			"Việc liên tục xuất hiện cửa sổ thông báo cập nhật trông không được đẹp mắt cho lắm",
+			"Các bản sửa lỗi khẩn cấp và thay đổi nhỏ sẽ được áp dụng âm thầm",
+			"Hãy khởi động lại game sau khi cập nhật âm thầm để tải dữ liệu mới nhất"
+		]
+	},
+	"goldHeld": [
+		"Yen"
+	],
+	"numberDays": [
+		"DAY"
+	],
+	"tipSaveMobile": [
+		"Phiên bản Android hiện chưa hỗ trợ truy cập nhanh đén thư mục lưu dữ liệu",
+		"do các vấn đề liên quan đến quyền truy cập nhạy cảm.",
+		"Vui lòng tự truy cập đường dẫn '/storage/emulated/0/Documents/sister_save'",
+		"để kiểm tra các tệp save của bạn! Bạn có thể tự do chuyển dữ liệu save từ thiết bị này sang thiết bị khác hoặc",
+		"từ phiên bản PC về điện thoại để tiếp tục tiến trình chơi."
+	],
+	"quantityHeld": [
+		"\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
+	],
+	"autoUpdate": [
+		"Có bản cập nhật khả dụng: Đã phát hiện dữ liệu game phiên bản ${}. ",
+		"Bạn có muốn tải xuống và cập nhật ngay bây giờ không?"
+	],
+	"fullScreen": [
+		"Chế độ toàn màn hình"
+	],
+	"masterVolume": [
+		"Âm lượng tổng"
+	],
+	"voiceVolume": [
+		"Âm lượng thoại"
+	],
+	"BgmVolume": [
+		"Âm lượng nhạc nền"
+	],
+	"BgsVolume": [
+		"Âm lượng hiệu ứng nền"
+	],
+	"SeVolume": [
+		"Âm lượng hiệu ứng"
+	],
+	"MaxPlayerMsgs": [
+		"Số tin nhắn tối đa"
+	],
+	"GameFAQ": [
+		"Hướng dẫn chơi game"
+	],
+	"ShowWeaponDurability": [
+		"Hiển thị độ bền vũ khí"
+	],
+	"fullUIMode": [
+		"Nút luôn được làm nổi bật"
+	],
+	"LockedFPS": [
+		"Khoá ở 60 FPS"
+	],
+	"FPSDisplay": [
+		"Hiển thị FPS"
+	],
+	"ZakoMode": [
+		"Chế độ ZAKO"
+	],
+	"Language": [
+		"Ngôn ngữ game"
+	],
+	"loadConfirm": [
+		"Bạn có muốn tải lại",
+		"tiến trình không?"
+	],
+	"OverwriteConfirmed": [
+		"Bạn có muốn lưu lại",
+		"tiến trình không?"
+	],
+	"SVConfirmText": [
+		"Có",
+		"Không"
+	],
+	"EnterCheatCode": [
+		"ZAKO~♥ ZAKO~♥",
+		"Nhập mã gian lận ở đây..."
+	],
+	"AnnouncementMenu": [
+		"Thông báo",
+		"Nhật ký thay đổi"
+	],
+	"mvSaveToMzConvertConfirmText": [
+		"Đã phát hiện ${} tệp dữ liệu save từ phiên bản cũ hơn (phiên bản MV).",
+		"Bạn có muốn chuyển đổi các tệp save này sang định dạng của phiên bản MZ hiện tại ",
+		"để có thể tiếp tục load và sử dụng không?"
+	],
+	"mvSaveToMzConvertTipsText": [
+		"Khi bạn đặt các tệp save phiên bản MV vào thư mục save, ",
+		"quá trình chuyển đổi dữ liệu save sẽ được tự động kích hoạt.",
+		"Sau khi chuyển đổi thành công, các tệp save sẽ được chuyển sang ",
+		"định dạng mà phiên bản MZ hiện tại có thể đọc và sẽ xuất hiện trên màn hình Load.",
+		" ",
+		"Quá trình này sẽ không xóa các tệp save phiên bản MV gốc. ",
+		"Tuy nhiên, nếu đã tồn tại tệp save phiên bản MZ có cùng số ô save, ",
+		"quá trình chuyển đổi sẽ không được kích hoạt lại.",
+		" ",
+		"Tính năng này hiện vẫn đang trong quá trình phát triển và thử nghiệm. ",
+		"Nếu bạn cho rằng dữ liệu đã bị mất sau khi chuyển đổi,",
+		"vui lòng giữ lại các tệp save phiên bản MV gốc và báo cáo sự cố trên server Discord của chúng tôi."
+	],
+	"mvSaveToMzFailed": "Không tìm thấy dữ liệu save nào cần chuyển đổi.",
+	"mvSaveToMzSuccess": [
+		"Đã chuyển đổi thành công ${} ô dữ liệu save.",
+		"Các ô save mới đã được thêm vào màn hình Load Game:"
+	],
+	"UpdateComplete1": [
+		"Cập nhật game đã hoàn tất!",
+		"Game sẽ tự động khởi động lại sau khi đóng cửa sổ này.",
+		"Bạn có thể load tệp auto-save để tiếp tục tiến trình!"
+	],
+	"UpdateComplete2": [
+		"Cập nhật game đã hoàn tất!",
+		"Game sẽ khởi động lại trong giây lát để áp dụng bản cập nhật!"
+	],
+	"RemindToUpdate": [
+		"Đã xảy ra lỗi và game bị treo.",
+		"Một bản vá mới hơn đã có sẵn—",
+		"Vui lòng sử dụng cập nhật tự động để khắc phục sự cố!"
+	],
+	"bagFull": [
+		"Vượt quá giới hạn kho đồ!!"
+	],
+	"noStatusEffects": [
+		"Không có bất kì hiệu ứng nào!!"
+	],
+	"unimplementedDoor": [
+		"Cánh cửa này không thể mở được từ phía này"
+	],
+	"zipUpdateComplete": [
+		"Bản vá đã được cài đặt thành công. ",
+		"Đang khởi động lại game để áp dụng cập nhật!"
+	],
+	"zipUpdateFail": [
+		"Không thể giải nén và cài đặt bản vá!",
+		"Vui lòng thử cập nhật tự động lại hoặc",
+		"giải nén thủ công các tệp bản vá để cài đặt!"
+	],
+	"fileDownloadedSuccessfully": [
+		"${} tải xuống thành công!"
+	],
+	"fileDownloadFailed": [
+		"${} tải xuống thất bại! Đang thử lại!"
+	],
+	"installPatch": [
+		"Bản vá cần được giải nén và cài đặt. Quá trình này có thể làm game giật lag, vui lòng kiên nhẫn!"
+	],
+	"totalFilesToUpdate": [
+		"Phát hiện ${} tệp cần cập nhật—bắt đầu quá trình tải xuống!"
+	],
+	"silentUpdateSuccess": [
+		"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
+	],
+	"outdatedVersionWarning": [
+		"Đã có bản cập nhật lớn cho game. Phiên bản mới nhất là ${}.",
+		"Tính năng tự động cập nhật các phiên bản lớn chỉ dành cho người dùng đã đăng nhập và hoàn tất xác minh mua game.",
+		"Nếu bạn không thể hoàn tất xác minh mua game, vui lòng tải xuống và cài đặt thủ công phiên bản mới nhất từ nền tảng nơi bạn đã mua game.",
+		"Sau khi cập nhật, bạn có thể tự chuyển các file save hoặc sử dụng tính năng lưu trữ đám mây của game để tiếp tục tiến trình."
+	],
+	"renameCharacter": [
+		"Tôi nhớ ra rồi—",
+		"em ấy là..."
+	],
+	"heroName": [
+		"Onii-chan"
+	],
+	"heroineName": [
+		"Imouto"
+	],
+	"nonHardwareAccelerated": [
+		"Game hiện đang chạy trên card đồ họa tích hợp!",
+		"Nếu PC của bạn có card đồ họa rời, chúng tôi khuyến nghị thiết lập Game.exe ",
+		"để sử dụng card đó trong graphics control panel để có trải nghiệm mượt mà hơn."
+	],
+	"isAmdCPU": [
+		"Hệ thống phát hiện CPU của bạn là bộ xử lý AMD.",
+		"Một số chip AMD có thể gặp hiện tượng giật khung hình khi phát video VP9 (WebM) ",
+		"trong môi trường Chromium. Nếu gặp vấn đề này, hãy thử để game ",
+		"sử dụng GPU rendering hoặc cập nhật driver để cải thiện."
+	],
+	"failedToLoad": [
+		"Loại sự cố này có thể do:",
+		"① Tệp game bị hỏng hoặc tên tệp bị lỗi do vấn đề mã hóa trong quá trình giải nén/cài đặt.",
+		"② Nhà phát triển quên không đưa tệp vào—hãy chờ bản vá cập nhật để khắc phục."
+	],
+	"LowResMode": [
+		"Chế độ đồ họa thấp"
+	],
+	"lowResModeWarning": [
+		"Tính năng này chủ yếu dùng để tối ưu hiệu suất trên thiết bị Android và có thể ít tác dụng trên phiên bản PC.",
+		"Khi bật, trò chơi sẽ hiển thị bản đồ và hình ảnh ở độ phân giải thấp hơn rồi phóng to lên, ",
+		"giúp giảm tải cho GPU trên thiết bị di động, đồng thời giảm nhiệt và tiết kiệm pin.",
+		"Lưu ý: Đây là một tính năng thử nghiệm, hiệu quả có thể khác nhau tùy theo thiết bị.",
+		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
+	],
+	"cloudSaveServiceWarning": [
+		"Đây là tính năng lưu trữ đám mây cũ dựa vào Google Drive.",
+		"Hiện tại, hệ thống lưu trữ đám mây chính thức đã được hoàn thiện,",
+		"tính năng này dự kiến sẽ ngừng hỗ trợ và bị xóa trong một bản cập nhật tương lai.",
+		" ",
+		"Tính năng lưu trữ đám mây này sẽ kết nối với Google Drive của bạn",
+		"và lưu các tệp save game vào thư mục NLCH/save.",
+		"Các tệp save đã tải lên sẽ chỉ được sử dụng cho việc đồng bộ trong tương lai và tải ngược trở lại ",
+		"vào trò chơi. Chúng sẽ không được sử dụng cho bất kỳ mục đích nào khác.",
+		"Bạn có đồng ý cấp quyền để trò chơi truy cập Google Drive của mình không?"
+	],
+	"uploadSaveFile": [
+		"Việc tải tệp save lên Google Drive sẽ ghi đè dữ liệu save hiện tại của bạn!",
+		"Bạn có muốn tiếp tục không?"
+	],
+	"nearbyMonstersCount": [
+		"Phát hiện quái vật đang ở gần"
+	],
+	"nearbyTreasuresCount": [
+		"Phát hiện Kho báu đang ở gần"
+	],
+	"underwaterTreasuresCount": [
+		"Phát hiện Kho báu dưới nước đang ở gần"
+	],
+	"steamWishlist": [
+		"Trang Steam của chúng tôi cuối cùng cũng đã mở!",
+		"Hãy thêm thêm tựa game vào Wishlist của bạn và ủng hộ bọn tôi nhé! (*´∀`)~♥",
+		"⬇Nhấn vào bên dưới để mở trang Steam."
+	],
+	"memberMenu": {
+		"firstTimeNotice": [
+			"Tính năng xác minh quyền sở hữu này hiện vẫn đang trong giai đoạn thử nghiệm.",
+			"Bạn có thể đăng nhập Patreon tại đây, ",
+			"hoặc liên kết tài khoản Itch để xác minh quyền sở hữu.",
+			"Nếu bạn có đăng ký Patreon đang hoạt động ",
+			"hoặc đã sở hữu trò chơi trên Itch,",
+			"bạn có thể sử dụng các tính năng như tự động cập nhật phiên bản lớn.",
+			"",
+			"Xin lưu ý:",
+			"Hiện tại, xác minh chỉ khả dụng cho người chơi ",
+			"đã mua trò chơi trên Itch hoặc Patreon, ",
+			"hoặc người chơi có đăng ký Patreon trả phí."
+		],
+		"shortHint": " Đã có thể bật lưu trữ đám mây & cập nhật phiên bản lớn",
+		"waitingLogin": "Đang chờ việc hoàn tất đăng nhập...",
+		"notLoggedIn": "Chưa đăng nhập",
+		"RequestingLogin": "Đang tạo link đăng nhập...",
+		"openingWindow": "Đang mở cửa sổ đăng nhập Patreon...",
+		"chooseLoginMethod": "Chọn nền tảng để đăng nhập",
+		"openingWindowItch": "Đang mở cửa sổ đăng nhập itch.io...",
+		"cloudSave": "Sử dụng lưu trữ đám mây",
+		"logInFirst": "Vui lòng nhấn nút này để đăng nhập trước",
+		"CheckUpdates": "Cập nhật lên phiên bản mới nhất",
+		"Subscribed": "Đã xác nhận là người chơi có tài trợ hoặc người chơi đã xác minh!",
+		"NotSubscribed": "Không phát hiện đăng ký đang hoạt động. Một số tính năng sẽ không khả dụng.",
+		"lastCheck": "Lần kiểm tra cuối: ",
+		"checkLatestVersion": "Đang kiểm tra phiên bản mới nhất, vui lòng chờ...",
+		"isLatestVersion": "Bạn đã ở phiên bản mới nhất!",
+		"notSponsor": "Người dùng chưa xác minh cần đăng ký!",
+		"ImoutoFavorite": "Imouto's Favorite!",
+		"nonItchUser": "Không tìm thấy trò chơi này trong thư viện Itch của bạn!",
+		"additionalPlatformVerifyNotice": "Bạn cũng có thể liên kết tài khoản từ các nền tảng khác để dùng chung dữ liệu playerId!",
+		"majorUpdateFailed": [
+			"Cập nhật phiên bản lớn thất bại!",
+			"Mã lỗi: ${}",
+			"Vui lòng thử đăng nhập để xác minh rồi bắt đầu cập nhật lại,",
+			"hoặc gửi ảnh chụp màn hình này lên Discord của chúng tôi để được hỗ trợ!"
+		]
+	},
+	"cloudSave": {
+		"title": "Lưu Trữ Đám Mây",
+		"lastSync": "Lần đồng bộ cuối: ",
+		"neverSynced": "Chưa từng đồng bộ",
+		"nextUploadIn": "(Có thể tải lên lần tiếp theo sau %1 giờ %2 phút)",
+		"nextSaveWillUpload": "(Dữ liệu save trên đám mây sẽ tự động được tải lên vào lần tiếp theo bạn lưu game)",
+		"loading": "Đang tải danh sách save trên đám mây...",
+		"hint": "Tải xuống một tệp save trên đám mây hoặc dùng nút phía trên để đồng bộ tất cả (sẽ ghi đè các ô save cục bộ trùng khớp)",
+		"empty": "Không tìm thấy tệp save nào trên đám mây!",
+		"notLoggedIn": "Vui lòng đăng nhập trước để sử dụng tính năng lưu trữ đám mây!",
+		"listFailed": "Không thể lấy danh sách save trên đám mây!",
+		"desktopOnly": "Hiện tại, tính năng khôi phục từ đám mây chỉ khả dụng trên máy tính",
+		"downloading": "Đang tải xuống...",
+		"downloadDone": "Đã khôi phục vào tệp save cục bộ",
+		"downloadFailed": "Không thể tải tệp save trên đám mây xuống!",
+		"uploading": "Đang tải tệp save cục bộ lên...",
+		"uploadDone": "Tải lên hoàn tất: %1 thành công, %2 thất bại",
+		"uploadSkipped": "Không có nội dung nào cần tải lên",
+		"confirmDownload": "Tải xuống và ghi đè tệp save cục bộ: ",
+		"syncAll": "Đồng Bộ Tất Cả Save Trên Đám Mây",
+		"confirmSyncAll": [
+			"Tải xuống %1 tệp save trên đám mây chưa được đồng bộ?",
+			"Các ô save cục bộ trùng khớp sẽ bị ghi đè."
+		],
+		"confirmSyncAllLocalNewer": "Cảnh báo: Có %1 tệp save cục bộ mới hơn.",
+		"syncAllProgress": "Đang đồng bộ save trên đám mây... %1/%2",
+		"syncAllDone": "Đã đồng bộ save trên đám mây: khôi phục %1 tệp",
+		"syncAllPartial": "Đồng bộ hoàn tất: khôi phục %1 tệp, %2 tệp thất bại",
+		"reconcileChecking": "Đang so sánh save cục bộ và save trên đám mây...",
+		"confirmReconcileOverlap": [
+			"[Tự Động Đồng Bộ Save Trên Đám Mây]",
+			"Đang tải %2 tệp save chỉ có trên đám mây xuống thư mục cục bộ...",
+			" ",
+			"Phát hiện %1 tệp save xung đột giữa dữ liệu cục bộ và đám mây!",
+			"Chọn [OK] để ghi đè save cục bộ bằng phiên bản trên đám mây (dữ liệu cục bộ sẽ bị mất).",
+			"Chọn [Cancel] để giữ lại save cục bộ và tải chúng lên máy chủ trong lần đồng bộ tiếp theo."
+		],
+		"reconcileProgress": "Đang khôi phục save trên đám mây... %1/%2",
+		"reconcileDone": "So sánh hoàn tất: %1 tệp đã tải xuống, %2 tệp đã ghi đè, %3 tệp được giữ lại cục bộ.",
+		"reconcilePartial": "So sánh hoàn tất: khôi phục %1 tệp, %2 tệp thất bại.",
+		"reconcileFailed": "Tự động so sánh save trên đám mây thất bại. Hãy đăng nhập lại để thử lại.",
+		"reconcileNothing": "Không tìm thấy save nào trên đám mây; save cục bộ sẽ được đồng bộ như bình thường.",
+		"slotAuto": "Save Tự Động",
+		"slotN": "Ô %1",
+		"statusNoLocal": "Chỉ Có Trên Đám Mây",
+		"statusCloudNewer": "Phiên Bản Trên Đám Mây Mới Hơn",
+		"statusLocalNewer": "Phiên Bản Cục Bộ Mới Hơn",
+		"statusSynced": "Đã Đồng Bộ"
+	},
+	"minimapName": {
+		"5": "Hầm Mộ Bị Lãng Quên: Tầng Dưới",
+		"9": "Vùng Đất Ngủ Say…",
+		"10": "Khu Rừng Tàn Tích",
+		"13": "Khu Rừng Tàn Tích",
+		"16": "Khu Rừng Tàn Tích",
+		"18": "Lối Mòn Mạo Hiểm Giả: Điểm Tập Kết",
+		"26": "Khu Rừng Tàn Tích",
+		"27": "Khu Rừng Tàn Tích",
+		"28": "Hầm Mộ Bị Lãng Quên: Tầng Trên",
+		"37": "Mê Cung Tàn Tích Tầng Nông",
+		"40": "Khu Vực Khai Thác",
+		"46": "Khu Vực Khai Thác",
+		"47": "Khu Rừng Tàn Tích",
+		"48": "Lối Mòn Mạo Hiểm Giả: Đài Tưởng Niệm",
+		"49": "Lối Mòn Mạo Hiểm Giả: Rừng Nhỏ",
+		"50": "Lăng Mộ ???",
+		"51": "Cửa Thiên Tinh",
+		"52": "Hầm Mộ Bị Lãng Quên: Nơi Ẩn Náu",
+		"53": "Thánh Đường Sa Ngã",
+		"55": "Vành Đai Hoả Ngục",
+		"56": "Khu Rừng Tàn Tích: Khu Vườn Bí Mật",
+		"58": "Lối Mòn Mạo Hiểm Giả: Rừng Nhỏ",
+		"59": "Khu Vực Khai Thác",
+		"60": "Khu Vực Khai Thác",
+		"61": "Khu Vực Khai Thác",
+		"62": "Lối Mòn Mạo Hiểm Giả: Rừng Nhỏ"
+	},
+	"AdventurersPathway": {
+		"mapName": "Lối Mòn Mạo Hiểm Giả"
+	},
+	"ShallowRuinsLabyrinth": {
+		"mapName": "Mê Cung Tàn Tích Tầng Nông",
+		"mapDescription": "Một mê cung rộng lớn chứa đầy những bí ẩn vô tận"
+	},
+	"ForgottenCatacombe": {
+		"mapName": "Hầm Mộ Bị Lãng Quên"
+	},
+	"ForestofRuins": {
+		"mapName": "Khu Rừng Tàn Tích"
+	},
+	"AbandonedForest": {
+		"mapName": "Khu Rừng Lạc Lối"
+	},
+	"ExcavationSite": {
+		"mapName": "Khu Vực Khai Thác"
+	},
+	"TheFallenChurch": {
+		"mapName": "Thánh Đường Sa Ngã",
+		"mapDescription": "Con cừu đáng yêu của ta! Sao ngươi lại bỏ rơi ta?"
+	},
+	"ThePureChurch": {
+		"mapName": "Thánh đường Thuần Khiết",
+		"mapDescription": "Phước lành cho những ai có tâm hồn trong sạch, vì họ sẽ được nhìn thấy Thiên Chúa."
+	},
+	"DoorofStar": {
+		"mapName": "Cửa Thiên Tinh"
+	},
+	"ScorchingLavaZone": {
+		"mapName": "Vành Đai Hoả Ngục",
+		"mapDescription": "Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng"
+	},
+	"Nibelungen": {
+		"mapName": "Vùng Đất Nibelungen"
+	}
+}

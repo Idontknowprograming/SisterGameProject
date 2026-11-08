@@ -1,0 +1,425 @@
+{
+    "skillToggle": [
+        "Kích hoạt",
+        "Vô hiệu"
+    ],
+    "1": {
+        "name": [
+            "Túi Lưu Trữ Ma Pháp"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một công cụ ma pháp di động cho phép bạn mang theo ",
+            "nhiều vật phẩm hơn bình thường. Tuy nhiên, ",
+            "ngay cả công cụ ma pháp cũng có giới hạn lưu trữ..."
+        ],
+        "ability": [
+            "Sức chứa vũ khí: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+            "Sức chứa trang bị: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+        ]
+    },
+    "2": {
+        "name": [
+            "Thiểm Bộ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một pha lướt nhanh qua một khoảng cách ngắn,",
+            "cho phép bạn né tránh một số đòn tấn công. Đây chỉ là một kỹ thuật tăng tốc,",
+            "nhưng người dùng lại khăng khăng đặt cho nó một cái tên thật ngầu."
+        ],
+        "ability": [
+            "Giữ phím Space để kích hoạt"
+        ]
+    },
+    "3": {
+        "name": [
+            "Nhất Thiểm Trảm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Một kỹ thuật rút kiếm học được từ vị Kiếm Sư trẻ tuổi.",
+            "Khi kết hợp với Thiểm Bộ, bạn tung ra một nhát chém được tăng cường tốc độ, ",
+            "đủ sức hất văng kẻ địch nếu căn đúng thời điểm."
+        ],
+        "ability": [
+            "Chuột trái trong khi dùng Thiểm Bộ: Chém, sát thương tỉ lệ với tốc độ",
+            "Giữ chuột phải trong khi dùng Thiểm Bộ: Tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+        ],
+        "mobileAbility": [
+            "Chạm nút kỹ năng để chém, sát thương tỉ lệ với tốc độ di chuyển",
+            "Giữ nút kỹ năng để tích tụ, hiệu ứng tỉ lệ với đà di chuyển"
+        ]
+    },
+    "4": {
+        "name": [
+            "Trảm Cuồng Phong"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Xoay người trong khi vung vũ khí để tung ra các đòn tấn công liên tục. ",
+            "Tốc độ tấn công sẽ tăng dần theo thời gian. Với những ai không giỏi ",
+            "các kỹ thuật kiếm pháp, kỹ năng này vừa dễ học vừa hiệu quả."
+        ],
+        "ability": [
+            "Giữ chuột phải để kích hoạt kỹ năng",
+            "Hủy trong lúc xoay để ném vũ khí"
+        ],
+        "mobileAbility": [
+            "Giữ nút kỹ năng để kích hoạt kỹ năng",
+            "Hủy trong lúc xoay để ném vũ khí"
+        ]
+    },
+    "6": {
+        "name": [
+            "Biến Thái May Mắn"
+        ],
+        "subtitle": [
+            "Đúng vậy!"
+        ],
+        "description": [
+            "Một thể chất biến thái mang tính huyền thoại, tự động kích hoạt ngay cả khi ",
+            "bản thân người sở hữu cũng không hề nhận ra. Như thể được một nữ thần ",
+            "vô hình ban phúc và dẫn lối, những thế lực không cưỡng lại được ",
+            "liên tục đẩy bạn vào các tình huống fanservice khiến mặt đỏ tim đập…!"
+        ],
+        "ability": [
+            "Luôn tạo ra những cơ hội hoàn hảo để kích hoạt các sự kiện dâm đãng!"
+        ]
+    },
+    "7": {
+        "name": [
+            "Trực Giác Nguy Hiểm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Thường được gọi là 'Con Mắt Tâm Trí', nhưng thực ra đây là một giác quan ",
+            "được mài giũa qua vô số lần thoát chết trong gang tấc. Nói cách khác, nó giống như",
+            "một phản xạ do sang chấn hơn là một kỹ năng thật sự..."
+        ],
+        "ability": [
+            "Di chuột qua mục tiêu để xem thông tin chi tiết"
+        ],
+        "mobileAbility": [
+            "Chạm vào mục tiêu để xem thông tin chi tiết"
+        ]
+    },
+    "9": {
+        "name": [
+            "Vua Bầu Trời"
+        ],
+        "description": [
+            "Hang động, vách đá, bầu trời rộng mở... anh ta đã rơi từ đủ mọi nơi.",
+            "Ngay cả khi bị đánh đến cận kề cái chết hết lần này đến lần khác, ",
+            "anh ta vẫn luôn bằng cách nào đó bám trụ được đến hơi thở cuối cùng.",
+            "Một ngày nào đó, người này sẽ thoát khỏi trọng lực và thực sự chinh phục bầu trời...!"
+        ],
+        "ability": [
+            "Khi chịu sát thương rơi chí mạng, cưỡng chế sống sót với 1 HP",
+            "Chỉ có thể kích hoạt tối đa một lần mỗi ngày"
+        ]
+    },
+    "10": {
+        "name": [
+            "Ẩn Thân Chi Thuật"
+        ],
+        "subtitle": [
+            "true"
+        ],
+        "description": [
+            "Một kỹ thuật ninja. Tôi chỉ học vội vàng, nhưng...",
+            "bằng cách nào đó, tôi lại nhanh chóng nắm được."
+        ],
+        "ability": [
+            "Nhấn Shift khi đang hoạt động để vào trạng thái tàng hình",
+            "Giảm phạm vi phát hiện của quái vật xuống \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] ô",
+            "Giảm tốc độ tăng cảnh giác của \\str[120] khi nhìn lén \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+        ]
+    },
+    "11": {
+        "name": [
+            "Ám Sát"
+        ],
+        "subtitle": [
+            "true"
+        ],
+        "description": [
+            "Một kỹ thuật ninja. Có thể kích hoạt khi đang ẩn thân.",
+            "Đánh úp kẻ địch không phòng bị từ phía sau để gây sát thương khổng lồ!"
+        ],
+        "ability": [
+            "Thành thạo kỹ năng: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+            "Sát thương ám sát cộng thêm: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+        ]
+    },
+    "12": {
+        "name": [
+            "Bạo Lưu Vô Song"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Tuyệt kỹ bí mật được thừa kế từ ASABA, người đã ôm lấy nỗi bi thương.",
+            "Trong khoảnh khắc nhanh đến mức mắt thường không kịp nhìn thấy,",
+            "hàng trăm đòn tấn công giáng xuống—",
+            "khiến kẻ địch chỉ còn lại màn đêm vĩnh hằng!"
+        ],
+        "ability": [
+            "Lệnh kỹ năng:  \\{⬆⬇⬅⮕⬆⬇\\}",
+            "Mỗi lần sử dụng kỹ năng sẽ tiêu hao một phần HP"
+        ]
+    },
+    "15": {
+        "name": [
+            "Giả gái (Femboy!?)"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Bạn mặc những bộ đồ vốn không dành cho mình... và có gì đó bên trong bạn ",
+            "chợt trỗi dậy (chắc chắn đó không phải là Khiên Hiệp Sĩ). ",
+            "Không có bonus gì trong lúc chiến đấu, thậm chí có thể làm tâm trí bạn rối loạn.",
+            "Đồng đội sẽ nhìn bạn với ánh mắt lạ lẫm, kẻ địch có khi cũng sẽ phải chững lại...",
+            "Suy cho cùng, trong thế giới này, dễ thương chính là công lý!"
+        ],
+        "ability": [
+            "Tăng độ Tội Lỗi dựa trên số lượng đồ con gái bạn mặt trên người!"
+        ]
+    },
+    "16": {
+        "name": [
+            "Thủ Hộ Kiếm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "\"Dù ngươi vung vũ khí thế nào đi nữa!\" \"Chúng ta sẽ đứng lên thách thức ngươi!\"",
+            "\"Để vũ khí không bị hao mòn!\" \"Để bảo vệ phẩm giá của binh khí!\"",
+            "\"Vì chúng ta tin rằng kiếm mới là chủ, còn con người chỉ là kẻ phục tùng!\"",
+            "\"Những kẻ cuồng tín hoang đường nhất, nhưng cũng kiên định không lay chuyển\"",
+            "\"Chúng ta là—Những Kẻ Bảo Tồn Vũ Khí—Thủ Hộ Kiếm!\""
+        ],
+        "ability": [
+            "Đeo huy hiệu này, giờ bạn đã trở thành một thành viên của họ."
+        ]
+    },
+    "18": {
+        "name": [
+            "Phá Hủy Vũ Khí"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Mọi vũ khí đều có giới hạn độ bền, ",
+            "và vì người dùng không giỏi trong các đòn tấn công chính xác,",
+            "nên có nguy cơ bị gãy. Nhưng khi vũ khí gãy, ",
+            "nó sẽ tung ra một đòn chí mạng cực mạnh!"
+        ],
+        "ability": [
+            "Sát thương đòn cuối: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+        ]
+    },
+    "21": {
+        "name": [
+            "Định Vị Tọa Độ"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Hiển thị tọa độ hiện tại trên bản đồ"
+        ]
+    },
+    "22": {
+        "name": [
+            "Phát Hiện Di Vật"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Hiển thị số lượng quái vật và di sản trên bản đồ hiện tại"
+        ]
+    },
+    "23": {
+        "name": [
+            "Phát Hiện Boss"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Hiển thị trạng thái hồi sinh của các Boss có thể khiêu chiến"
+        ]
+    },
+    "24": {
+        "name": [
+            "Hiển thị HP"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Hiển thị thông tin HP của mục tiêu khi bị tấn công"
+        ]
+    },
+    "26": {
+        "name": [
+            "Rèn Luyện Kiếm Thuật"
+        ],
+        "subtitle": [
+            "true"
+        ],
+        "description": [
+            "Đã xin lời khuyên từ một cô gái kiếm sư về cách để mạnh hơn",
+            "Tất cả những gì cô ấy nói chỉ là: 'Mỗi ngày vung kiếm 1,000 lần đi!'",
+            "Liệu thật sự có hiệu quả không!? Thôi thì cứ thử xem..."
+        ],
+        "ability": [
+            "Số lần tập vung kiếm: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+            "Sát thương cơ bản của vũ khí cận chiến tăng thêm \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+        ]
+    },
+    "66": {
+        "name": [
+            "Băng Kết Thuật"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Lớp băng tạo ra sẽ định kỳ đóng băng những kẻ địch đang đứng trên đó",
+            "Kẻ địch đứng trên lớp băng sẽ dễ bị đóng băng hơn"
+        ]
+    },
+    "82": {
+        "name": [
+            "Ma Thuật Hủy Diệt"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Phun ra một màn sương độc cực kỳ hiệu quả trong việc tiêu diệt sâu bọ",
+            "Sát thương ma thuật càng cao, sát thương độc cộng thêm càng lớn",
+            "Sương độc sẽ lưu lại trong thời gian ngắn và phát nổ khi tiếp xúc với lửa"
+        ]
+    },
+    "87": {
+        "name": [
+            "Độc Dược Cường Lực"
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Mỗi lần gây độc liên tiếp sẽ tăng 40% sát thương độc tích lũy",
+            "Mỗi lần kích hoạt sát thương độc sẽ tăng 40% sát thương độc tích lũy"
+        ]
+    },
+    "93": {
+        "name": [
+            "Thiên Cương Lôi Vân"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Tồn tại trong một khoảng thời gian và tự động tấn công những kẻ địch ở gần",
+            "Khi trời mưa, tất cả hiệu ứng của cây trượng sẽ được cường hóa đáng kể"
+        ]
+    },
+    "95": {
+        "name": [
+            "Hố Đen Trọng Lực"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Tạo ra một hố đen hút kẻ địch vào và gây sát thương liên tục",
+            "Khi hiệu ứng kết thúc, hố đen sẽ phát nổ đánh bật những kẻ địch ở gần"
+        ]
+    },
+    "96": {
+        "name": [
+            "Xung Kích Gợn Sóng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Điều khiển nước tại vị trí mục tiêu để tấn công",
+            "Gây sát thương tăng mạnh nếu vị trí mục tiêu có nước",
+            "Kỹ năng còn có thể đánh bật các vật phẩm ẩn bên dưới mặt nước lên"
+        ]
+    },
+    "97": {
+        "name": [
+            "Cuồng Lưu Diệt Thế"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Liên tục hút và nén các nguyên tố nước xung quanh (ngừng tích tụ nếu không có nước)",
+            "Khi kết thúc tích tụ, giải phóng một làn sóng xung kích nước mạnh mẽ theo hướng chỉ định"
+        ]
+    },
+    "98": {
+        "name": [
+            "Hồng Liên Tinh"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Thi triển ma pháp triệu hồi, đánh dấu vị trí mục tiêu khi kết thúc",
+            "Sau vài giây, triệu hồi thiên thạch giáng xuống vị trí đã đánh dấu"
+        ]
+    },
+    "103": {
+        "name": [
+            "Thiện Hữu Ác Báo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Phát ra sóng xung kích phản công kẻ địch xung quanh khi chịu sát thương",
+            "Phát ra làn sóng hồi phục chữa lành cho kẻ địch xung quanh khi được hồi máu"
+        ]
+    }
+}
