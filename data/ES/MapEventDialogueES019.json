@@ -1,0 +1,568 @@
+{
+    "Note": [
+        "Configuración de diálogo para mapa 019",
+        "Traducción al español",
+        "Escenas de descanso y eventos de sueño de Mio",
+        "Variables: \\str[120] = Mio, \\str[121] = Protagonista",
+        "Control de códigos RPG Maker preservados"
+        ],
+    "1": {
+        "0": [
+            "Ya es bastante tarde...",
+            "Debería dar por terminado el día e irme a dormir."
+        ],
+        "1": [
+            "Aún es temprano...",
+            "Tal vez debería investigar un poco más antes de dormir."
+        ],
+        "2": [
+            "No me siento con ganas de dormir todavía."
+        ],
+        "3": [
+            "Irme a dormir",
+            "Quedarme despierto un poco más"
+        ],
+        "4": [
+            "La cama se siente increíblemente cómoda hoy...",
+            "El cansancio del día desaparece poco a poco."
+        ],
+        "5": [
+            "Tengo el cuerpo pesado...",
+            "Mañana será otro día ocupado."
+        ],
+        "6": [
+            "Me acosté en la cama",
+            "y cerré los ojos en silencio."
+        ],
+        "7": [
+            "La respiración suave de \\str[120]",
+            "se puede escuchar a lo lejos desde el ático."
+        ],
+        "8": [
+            "Saber que ella está a salvo",
+            "me da una profunda tranquilidad."
+        ],
+        "9": [
+            "Poco a poco, mi mente se sumerge en el sueño."
+        ],
+        "10": [
+            "Buenas noches, \\str[120]..."
+        ],
+        "11": [
+            "Antes de darme cuenta, caí profundamente dormido."
+        ],
+        "12": [
+            "De repente, me desperté en medio de la noche."
+        ],
+        "13": [
+            "Todo está en completo silencio."
+        ],
+        "14": [
+            "Me pregunto si \\str[120] estará durmiendo bien..."
+        ],
+        "15": [
+            "Ir a ver a \\str[120]",
+            "Volver a dormir"
+        ],
+        "16": [
+            "Decidí ir a echar un vistazo a la habitación de \\str[120]."
+        ],
+        "17": [
+            "Volví a cerrar los ojos y continué durmiendo."
+        ],
+        "18": [
+            "Me quedaré solo un poco más.",
+            "Nunca me canso de mirar esta cara dormida e indefensa..."
+        ],
+        "19": [
+            "Maldición, antes de eso,",
+            "tengo que arreglar la ropa de \\str[120] que desordené.",
+            "No puedo dejar ningún rastro—"
+        ],
+        "20": [
+            "Uff, parece que quedó exactamente como antes..."
+        ],
+        "21": [
+            "No puedo evitar darle una última palmadita en la cabeza a \\str[120]",
+            "antes de regresar satisfecho a mi habitación y quedar inconsciente."
+        ],
+        "22": [
+            "Oh no, ya es así de tarde—        \\w[30]",
+            "Tengo que levantarme temprano mañana,",
+            "necesito volver a dormir ahora..."
+        ],
+        "23": [
+            "Mala señal, los párpados de \\str[120] están aleteando.",
+            "¡Está a punto de despertarse—! ¡No puedo continuar!",
+            "Terminemos las cosas por esta noche..."
+        ],
+        "24": [
+            "Con cuidado rodé el cuerpo de \\str[120].",
+            "Aunque el sonido de la ropa rozando las sábanas es penetrante",
+            "en el silencio absoluto de la habitación, \\str[120] parece estar",
+            "completamente perdida en un sueño profundo sin señales de despertar."
+        ]
+    },
+    "2": {
+        "0": [
+            "El ático está en silencio."
+        ],
+        "1": [
+            "\\str[120] está profundamente dormida en su cama."
+        ],
+        "2": [
+            "Se ve tan tranquila y serena cuando duerme."
+        ],
+        "3": [
+            "Acercarse sigilosamente",
+            "Observarla en silencio"
+        ],
+        "4": [
+            "Me acerqué a su cama sin hacer el menor ruido."
+        ],
+        "5": [
+            "La observé un momento desde la entrada y luego volví abajo."
+        ]
+    },
+    "6": {
+        "0": [
+            "La postura de \\str[120] al dormir",
+            "es sorprendentemente desinhibida..."
+        ],
+        "1": [
+            "La manta se ha deslizado casi por completo."
+        ],
+        "2": [
+            "Su pijama holgada deja ver bastante piel."
+        ],
+        "3": [
+            "Acomodarle la manta",
+            "Hacerle una travesura",
+            "Volver a la habitación"
+        ],
+        "4": [
+            "Le subí la manta con mucho cuidado",
+            "para que no pase frío durante la noche."
+        ],
+        "5": [
+            "\\nl< >\"Mmm... \\str[121]...♥\""
+        ],
+        "6": [
+            "Dejó escapar un tierno murmullo entre sueños."
+        ],
+        "7": [
+            "Me quedé helado por un segundo,",
+            "pero parece que no se despertó."
+        ],
+        "8": [
+            "Sonreí al ver su linda cara",
+            "y me retiré despacio de la habitación."
+        ],
+        "9": [
+            "No puedo evitar sentir una tentación traviesa..."
+        ],
+        "10": [
+            "Será mejor no arriesgarme a despertarla ahora."
+        ]
+    },
+    "7": {
+        "0": [
+            "Estiré la mano tentativamente hacia \\str[120]..."
+        ],
+        "1": [
+            "Tocarle la cara",
+            "Acariciarle el cabello",
+            "Ajustar su ropa",
+            "Detenerse aquí"
+        ],
+        "2": [
+            "Le acaricié suavemente la mejilla.",
+            "Su piel es increíblemente suave y tibia."
+        ],
+        "3": [
+            "Pasé mis dedos por su suave cabello blanco."
+        ],
+        "4": [
+            "Arreglé un poco el borde de su pijama."
+        ],
+        "5": [
+            "\\nl< >\"Ngh... mmm...♥\""
+        ],
+        "6": [
+            "\\str[120] se movió ligeramente,",
+            "frotando su rostro contra la almohada."
+        ],
+        "7": [
+            "Mi corazón dio un brinco del susto."
+        ],
+        "8": [
+            "Afortunadamente, volvió a quedar profundamente dormida."
+        ],
+        "9": [
+            "Será mejor retirarme antes de que se despierte de verdad."
+        ],
+        "10": [
+            "Decidí no hacer nada más y volver a mi habitación."
+        ],
+        "11": [
+            "Cerré la puerta de su habitación con delicadeza."
+        ]
+    },
+    "8": {
+        "0": [
+            "La manta de \\str[120] se deslizó totalmente,",
+            "dejando al descubierto su linda figura."
+        ],
+        "1": [
+            "Sus pantalones cortos se bajaron un poco,",
+            "mostrando el borde de sus bragas blancas."
+        ],
+        "2": [
+            "Bajar los pantalones",
+            "Bajar las bragas",
+            "Tocarlas sobre la ropa",
+            "Volver a la habitación"
+        ],
+        "3": [
+            "Con cuidado, bajé un poco más sus pantalones cortos."
+        ],
+        "4": [
+            "La piel suave de sus muslos quedó expuesta a la vista."
+        ],
+        "5": [
+            "Sus bragas de encaje blanco ajustan bien a su figura."
+        ],
+        "6": [
+            "La visión es ridículamente tentadora."
+        ],
+        "8": [
+            "Aunque esta vista parcial es encantadora,",
+            "tengo mucha curiosidad por ver más allá...",
+            "¡Debería quitárselos de una vez!"
+        ],
+        "9": [
+            "Jalé un poco más abajo con cuidado...",
+            "En un segundo podré ver la parte más privada de \\str[120]..."
+        ],
+        "10": [
+            "¡Es el momento, atravesaré esta última barrera!"
+        ],
+        "11": [
+            "Tocar su entrepierna sobre la tela"
+        ],
+        "12": [
+            "Acariciar su trasero"
+        ],
+        "13": [
+            "Deslizar mis dedos bajo la tela"
+        ],
+        "14": [
+            "Quitarle la ropa interior"
+        ],
+        "15": [
+            "Detenerse antes de ir demasiado lejos"
+        ],
+        "16": [
+            "Puse mi mano sobre su entrepierna cubierta."
+        ],
+        "17": [
+            "Puedo sentir un calor asombroso emitiendo desde allí."
+        ],
+        "18": [
+            "La tela ya está ligeramente húmeda por el calor."
+        ],
+        "19": [
+            "Mis dedos se movieron suavemente sobre la tela suave."
+        ],
+        "20": [
+            "Acaricié las curvas de su trasero con ambas manos."
+        ],
+        "21": [
+            "La carne de sus nalgas es suave y firme al mismo tiempo."
+        ],
+        "22": [
+            "Cada presión deja una sensación deliciosa en mis dedos."
+        ],
+        "23": [
+            "Incluso a través de los pantalones cortos holgados,",
+            "las curvas redondeadas del trasero de \\str[120] son evidentes."
+        ],
+        "24": [
+            "\"Jeje... ella lleva puesto \\sa[\\v[90]] ahora mismo.",
+            "Parece que ese será el color de la suerte de mañana~\""
+        ],
+        "25": [
+            "Al bajar un poco los pantalones cortos,",
+            "se asoma el borde superior de sus bragas blancas."
+        ],
+        "26": [
+            "El borde de sus bragas se hunde en la curva de sus nalgas,",
+            "resaltando la forma perfecta del trasero de \\str[120]."
+        ],
+        "27": [
+            "El trasero de \\str[120] queda al descubierto ante mí,",
+            "brillando tenuemente bajo la luz de la habitación."
+        ],
+        "28": [
+            "Amasar el trasero de \\str[120] a través de la tela",
+            "se siente suave y esponjoso como un peluche."
+        ],
+        "29": [
+            "............Espera, esto es extraño.",
+            "Mi palma comienza a sentir una humedad pegajosa.",
+            "¿Por qué la tela originalmente seca se está volviendo húmeda?"
+        ],
+        "30": [
+            "Al bajar un poco más sus pantalones cortos,",
+            "mi palma finalmente entra en contacto directo con su piel."
+        ],
+        "31": [
+            "Sin los pantalones para ocultarlo,",
+            "el trasero redondeado de \\str[120] queda totalmente expuesto."
+        ],
+        "32": [
+            "Con un toque travieso, estiré los dedos",
+            "hacia la hendidura central..."
+        ],
+        "33": [
+            "Lo que me emociona aún más es que la tela",
+            "se humedece al instante con su calor."
+        ],
+        "34": [
+            "El trasero de \\str[120] está desnudo ante mis ojos.",
+            "Presioné mi palma firmemente contra su piel suave."
+        ],
+        "35": [
+            "Tras amasar un poco, mi palma se manchó con un fluido transparente.",
+            "Es el jugo de amor de \\str[120] que brota desde su interior."
+        ],
+        "36": [
+            "Esta elasticidad suave y carnosa es súper reconfortante."
+        ],
+        "37": [
+            "Los pantalones cortos aún bloquean la vista principal.",
+            "Tendré que bajarlos un poco más."
+        ],
+        "38": [
+            "Aunque los pantalones están a medio bajar,",
+            "las bragas aún cubren la parte secreta."
+        ],
+        "39": [
+            "...Mirando de cerca, hay una mancha húmeda en el centro de la tela.",
+            "Se puede sentir un calor intenso emitiendo desde allí."
+        ],
+        "40": [
+            "Sin los pantalones estorbando, la forma de su hendidura",
+            "se marca claramente a través de la tela blanca."
+        ],
+        "41": [
+            "Aunque sus bragas se bajaron un poco,",
+            "la tela amontonada aún cubre la vista más importante."
+        ],
+        "42": [
+            "Puse la palma de mi mano sobre su entrepierna",
+            "y la froté lentamente de un lado a otro."
+        ],
+        "43": [
+            "...Pronto mi palma se llenó de una humedad pegajosa.",
+            "El cuerpo de \\str[120] ya está empapado por el calor."
+        ],
+        "44": [
+            "Estiré la mano y mis dedos se envolvieron en humedad al instante.",
+            "Los fluidos pegajosos empaparon la tela de sus bragas."
+        ],
+        "45": [
+            "Intenté tocar más a fondo, pero las capas de tela amontonada",
+            "bloquean el contacto directo."
+        ],
+        "46": [
+            "Sin la barrera de los pantalones,",
+            "solo una fina capa de tela blanca cubre la entrepierna de \\str[120]."
+        ],
+        "47": [
+            "Di un paso más y deslicé mis dedos entre los pliegues de sus bragas."
+        ],
+        "48": [
+            "Como sus fluidos empaparon la tela,",
+            "mis dedos se hundieron con facilidad hacia su entrada."
+        ],
+        "49": [
+            "A pesar de ser una penetración superficial,",
+            "mis dedos tocaron su piel húmeda e íntima."
+        ],
+        "50": [
+            "Pensé que bajando un poco la ropa tendría acceso libre,",
+            "pero la tela amontonada dificulta el toque directo."
+        ],
+        "51": [
+            "Al retirar la última prenda de tela,",
+            "la entrepierna de \\str[120] quedó al descubierto ante mis ojos."
+        ],
+        "52": [
+            "Aguantando la respiración, separé delicadamente sus labios íntimos",
+            "para explorarla más a fondo."
+        ],
+        "53": [
+            "Empapados en sus fluidos, sus labios íntimos están tan suaves como pudín."
+        ],
+        "54": [
+            "La sensación en la punta de mis dedos es increíblemente suave y delicada."
+        ],
+        "55": [
+            "Aunque sus bragas no están del todo fuera,",
+            "la entrepierna de \\str[120] ha perdido toda protección."
+        ]
+    },
+    "9": {
+        "0": [
+            "Deslicé mis dedos con cuidado bajo la tela..."
+        ],
+        "1": [
+            "La calidez de su cuerpo me envolvió los dedos al instante."
+        ],
+        "2": [
+            "Toqué suavemente su punto más sensible."
+        ],
+        "3": [
+            "\\nl< >\"Ngh... ah...♥ \\str[121]...\""
+        ],
+        "4": [
+            "\\str[120] soltó un tierno gemido entre sueños."
+        ],
+        "5": [
+            "Mis dedos continuaron acariciándola en ritmo suave."
+        ],
+        "6": [
+            "La humedad entre sus piernas aumentó considerablemente."
+        ],
+        "7": [
+            "Su respiración se volvió más corta y agitada."
+        ],
+        "8": [
+            "Decidí detenerme antes de que se despierte por completo."
+        ],
+        "9": [
+            "Retiré mis dedos despacio y la cubrí bien."
+        ],
+        "10": [
+            "Me retiré en silencio hacia mi habitación."
+        ]
+    },
+    "12": {
+        "1": [
+            "\\str[120] no tiene la mejor constitución,",
+            "pero su estilo al dormir es increíblemente atrevido."
+        ],
+        "2": [
+            "\"¿Cuánto hay que moverse para terminar",
+            "durmiendo en una pose tan rara...?\""
+        ],
+        "3": [
+            "Ya que me encontré con una vista tan inusual,",
+            "¿debería aprovechar para hacer algo...?"
+        ],
+        "4": [
+            "Levantarle el trasero",
+            "Acomodar su postura de sueño"
+        ],
+        "5": [
+            "Mmm... en esta posición,",
+            "tal vez sí pueda hacer aquello..."
+        ],
+        "6": [
+            "\"....................\""
+        ],
+        "7": [
+            "Bajo mi manipulación,",
+            "\\str[120] quedó en una postura cómica pero seductora."
+        ],
+        "8": [
+            "Aun así, sigue durmiendo profundamente sin señales de despertar...",
+            "¿Siento que podría hacer un poco más?"
+        ],
+        "9": [
+            "¡No, no, reacciona!",
+            "¡¿Cómo podría tratar a \\str[120] como un juguete...?!"
+        ],
+        "10": [
+            "\"...Si duerme así,",
+            "mañana le va a doler todo el cuerpo al levantarse.\""
+        ],
+        "11": [
+            "Tocar vagina",
+            "Amasar trasero",
+            "Quitar bragas",
+            "Quitar pantalones cortos",
+            "Acomodar postura de sueño"
+        ],
+        "12": [
+            "Al retirar la última prenda,",
+            "la parte inferior del cuerpo de \\str[120] quedó al descubierto.",
+            "Esa vagina fofita y sonrosada está ahora expuesta indefensamente",
+            "bajo la luz de la habitación."
+        ],
+        "13": [
+            "Estaba preparado para esto,",
+            "pero ver a \\str[120] completamente al desnudo ahí abajo",
+            "hace que un extraño impulso brote en mi corazón."
+        ],
+        "14": [
+            "No puedo evitar estirar el dedo hacia",
+            "la parte más profunda de la hendidura...",
+            "Aunque sigue siendo una flor tierna en capullo,",
+            "parece poseer un poder mágico que se aferra a mi dedo."
+        ],
+        "15": [
+            "Aguanto la respiración, intentando separar los pétalos cerrados... \\w[60]",
+            "¡Así es, este territorio sagrado de \\str[120] que nadie",
+            "ha pisado jamás está a punto de ser tomado por mí...!"
+        ],
+        "16": [
+            "No me pueden culpar...",
+            "es solo que el trasero redondeado de \\str[120] es demasiado tentador...",
+            "Murmuro estas excusas en mi mente mientras extiendo la mano."
+        ],
+        "17": [
+            "Incluso a través de una fina capa de tela,",
+            "puedo sentir claramente el contorno del trasero de \\str[120].",
+            " ",
+            " ",
+            "Presionando ligeramente hacia abajo,",
+            "mis dedos se hunden en su carne cálida y suave.",
+            "Con cada amasado suave,",
+            "el cuerpo bajo la tela da un rebote elástico."
+        ],
+        "18": [
+            "Comparadas con los pantalones cortos,",
+            "estas bragas ajustadas ofrecen muy poca cobertura.",
+            "Cuando mi palma cubre por completo el trasero de \\str[120], mis dedos",
+            "sobrepasan el borde de la tela, tocando directamente su piel."
+        ],
+        "19": [
+            "Instintivamente deslizo mis dedos entre las bragas de \\str[120]",
+            "y su trasero, frotando repetidamente.",
+            "Disfruto viendo cómo las tiras se aflojan",
+            "bajo mis dedos curiosos."
+        ],
+        "20": [
+            "\\nl< >\"Ugh... mmmgh...\""
+        ],
+        "21": [
+            "\\str[120] parece notar la anomalía en su parte inferior",
+            "y deja escapar un murmullo de resistencia.",
+            " ",
+            " ",
+            "Ese gemido suave y aparentemente indispuesto es como",
+            "un balde de agua fría derramado en mi corazón.",
+            "Retiro torpemente la mano, sin atreverme a hacer ruido."
+        ],
+        "22": [
+            "Afortunadamente,",
+            "el sueño pesado arrastra a \\str[120] de nuevo a sus sueños.",
+            "Exhalo despacio; con el viento fresco de la noche,",
+            "mi mente acalorada finalmente se enfría.",
+            "Definitivamente estaba yendo demasiado rápido recién.",
+            "Dejaré... esto hasta aquí por ahora."
+        ]
+    }
+}

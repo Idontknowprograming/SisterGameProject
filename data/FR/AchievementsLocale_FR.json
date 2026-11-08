@@ -1,0 +1,214 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "Souvenirs avec \\str[120]",
+      "New Scene Name": "",
+      "Trophy Description": "\\str[120] sera toujours la personne la plus importante"
+    },
+    "RPG": {
+      "Category Name": "Souvenirs de combats dans l'Abîme",
+      "New Scene Name": "",
+      "Trophy Description": "Combattre... continuer à combattre !"
+    },
+    "Gacha": {
+      "Category Name": "Souvenirs de diverses collections",
+      "New Scene Name": "",
+      "Trophy Description": "On dit que si vous collectionnez tout, vous pourrez invoquer—"
+    },
+    "Ryouri": {
+      "Category Name": "Souvenirs de cuisine",
+      "New Scene Name": "",
+      "Trophy Description": "La cuisine est quelque chose qui apporte du bonheur aux gens"
+    },
+    "Hentai": {
+      "Category Name": "Souvenirs hentai",
+      "New Scene Name": "",
+      "Trophy Description": "Du sucre et des épices~ Et tout ce qui est délicieux~"
+    }
+  },
+  "achievements": {
+    "WhereIsImouto": {
+      "Name": "Où est ma petite sœur ?",
+      "Description": "Il faut trouver la fille bien-aimée—",
+      "Pop Up Desc": "\\fs[20]Où est ma chère petite sœur… ?"
+    },
+    "ItsMyImouto": {
+      "Name": "C'est ma chère petite sœur !",
+      "Description": "La fille bien-aimée se trouve juste devant moi",
+      "Pop Up Desc": "C'est ma chère petite sœur !"
+    },
+    "JoyStation V": {
+      "Name": "J'ai obtenu une console de jeu !",
+      "Description": "Vous pouvez maintenant jouer avec \\str[120] !",
+      "Pop Up Desc": [
+        "\\fs[18]C'est peut-être un jeu, ",
+        "mais ce n'est pas quelque chose auquel on joue"
+      ]
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "Ma petite sœur est vraiment trop mignonne !",
+      "Description": "L'affection de la petite sœur a atteint son apogée !",
+      "Pop Up Desc": [
+        "\\fs[22]Ma petite sœur ",
+        "est vraiment trop mignonne !"
+      ]
+    },
+    "ImoutoBodyPillow": {
+      "Name": "Oreiller à l'effigie de la petite sœur",
+      "Description": "peut désormais faire asseoir la petite sœur sur ses genoux pendant les parties !",
+      "Pop Up Desc": "\\fs[20]La présence de la petite sœur ne vous suffit-elle pas ?"
+    },
+    "GachaIsBadCivilization": {
+      "Name": "Le gacha est une mauvaise civilisation !",
+      "Description": "A dépensé trop d'argent dans le gacha et s'est fait gronder par sa petite sœur...",
+      "Pop Up Desc": "\\fs[21]Le gacha est une mauvaise civilisation !"
+    },
+    "CanYouSendMe50K": {
+      "Name": "Tu peux m'envoyer 50 000~ ?",
+      "Description": "A donné plus de 50 000 d'argent de poche à sa petite sœur en une seule fois !",
+      "Pop Up Desc": "Tu peux m'envoyer 50 000~ ?"
+    },
+    "ShinkonSantaku": {
+      "Name": "Les trois choix des \njeunes mariés !",
+      "Description": "A fait jouer à sa petite sœur les trois choix des jeunes mariés !",
+      "Pop Up Desc": "Les trois choix des \njeunes mariés !"
+    },
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "Les gens meurent quand on les tue ?",
+      "Description": "Vos PV tombent à zéro dans l'Abîme...",
+      "Pop Up Desc": [
+        "\\fs[22]Les gens meurent quand ils ",
+        "sont tués ?"
+      ]
+    },
+    "HoardingHabit": {
+      "Name": "Manie de l'accumulation",
+      "Description": "A placé un grand nombre d'objets dans la Porte stellaire",
+      "Pop Up Desc": [
+        "\\fs[22]Je souffre d'une maladie qui me fait ",
+        "mourir si je n'accumule rien"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "Transporté dans un isekai ?",
+      "Description": "Écrasé sans pitié par le camion d'un magasin...",
+      "Pop Up Desc": "\\fs[20]Magie de réincarnation dans un isekai !?"
+    },
+    "YouAreAlreadyDead": {
+      "Name": "Requiem",
+      "Description": "Déclaré mort par la Mort",
+      "Pop Up Desc": "Tu es déjà mort"
+    },
+    "AirKing": {
+      "Name": "Roi de l'air",
+      "Description": "Vous êtes déjà tombé tant de fois…",
+      "Pop Up Desc": [
+        "\\fs[22]\" Tu ne veux pas devenir ",
+        "ami avec le ciel ! \""
+      ]
+    },
+    "Shichosei": {
+      "Name": "L'étoile du présage funeste",
+      "Description": "Vaincu par ASABA grâce à une technique spéciale",
+      "Pop Up Desc": [
+        "\\fs[22]\" Tu peux la voir… ",
+        "l'étoile du présage funeste !! \""
+      ]
+    },
+    "ServantAndMaster": {
+      "Name": "Servants et Maître",
+      "Description": "Commander cinq Servants en même temps",
+      "Pop Up Desc": [
+        "\\fs[22]\" Je vous le demande. ",
+        "Êtes-vous notre Maître ? \""
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "Réjouissez-vous de la naissance du roi !",
+      "Description": "Affronter un boss pour la première fois",
+      "Pop Up Desc": "\\fs[18]Réjouissez-vous de la naissance du roi !"
+    },
+    "UnlimitedBladeWaste": {
+      "Name": "Unlimited Blade Waste",
+      "Description": "A cassé plus de 100 armes",
+      "Pop Up Desc": [
+        "\\fs[22]\" As-tu assez ",
+        "d'armes en réserve ? \""
+      ]
+    },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "Je viens d'assister à une scène inestimable.",
+      "Description": "A assisté à la naissance de la fée des pommes",
+      "Pop Up Desc": [
+        "\\fs[21]Je viens d'assister à une scène ",
+        "inestimable."
+      ]
+    },
+    "WhoNeedsAFishingRod": {
+      "Name": "Qui a besoin d'une canne à pêche ?",
+      "Description": "Faire exploser des objets hors de l'eau avec des bombes 10 fois",
+      "Pop Up Desc": "\\fs[22]Qui a besoin d'une canne à pêche ?"
+    },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "Le Saint de l'épée des bâtons",
+      "Description": "Le résultat d'un entraînement quotidien persévérant au maniement de l'épée",
+      "Pop Up Desc": "\\fs[18]Le Saint de l'épée des bâtons"
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "C'était pour mesurer mes capacités",
+      "Description": "A obtenu les compétences du ninja",
+      "Pop Up Desc": [
+        "\\fs[22]\" C'ÉTAIT POUR MESURER MES ",
+        "CAPACITÉS. \""
+      ]
+    },
+    "DonotYouEverStop": {
+      "Name": "Ne t'arrête jamais !",
+      "Description": "Continuer à courir à une vitesse extrêmement élevée",
+      "Pop Up Desc": "Ne t'arrête jamais !"
+    },
+    "YouAreBeingSummoned": {
+      "Name": "Tu es invoqué, ◉▽◉ !",
+      "Description": "Une créature ancienne a été découverte !",
+      "Pop Up Desc": "\\fs[18]Tu es invoqué, ◉▽◉ !"
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "Toi aussi, tu peux devenir la lumière !",
+      "Description": "La malédiction d'Aki s'est intensifiée",
+      "Pop Up Desc": "\\fs[20]Toi aussi, tu peux devenir la lumière !"
+    },
+    "ObtainWornPanties": {
+      "Name": "Une culotte jamais portée n'a aucune valeur !",
+      "Description": "A reçu la culotte de sa petite sœur~ !",
+      "Pop Up Desc": "\\fs[18]Une culotte jamais portée n'a aucune valeur !"
+    },
+    "ErogameWithImouto": {
+      "Name": "Siscon désespéré",
+      "Description": "Dans la chambre de la petite sœur, utilise son ordinateur pour lui faire des choses indécentes",
+      "Pop Up Desc": "Jouer à des jeux avec sa petite sœur ?"
+    },
+    "Milkeddry": {
+      "Name": "Complètement vidé...",
+      "Description": "Il n'en reste... absolument pas une seule goutte...",
+      "Pop Up Desc": [
+        "\\fs[22]\" Il n'en reste... ",
+        "absolument pas une seule goutte... \""
+      ]
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "Escalier vers l'âge adulte♥",
+      "Description": "Faire lire des doujinshi obscènes à sa petite sœur",
+      "Pop Up Desc": "Escalier vers l'âge adulte♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "Escalier vers l'âge adulte♥♥",
+      "Description": "Faire utiliser des jouets érotiques à sa petite sœur",
+      "Pop Up Desc": "\\fs[22]Escalier vers l'âge adulte♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "Escalier vers l'âge adulte♥♥♥",
+      "Description": "Enseigner à sa petite sœur les plaisirs du sexe",
+      "Pop Up Desc": "\\fs[20]Escalier vers l'âge adulte♥♥♥"
+    }
+  }
+}

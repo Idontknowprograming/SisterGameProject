@@ -1,0 +1,388 @@
+{
+  "1": {
+    "0": [
+      "Mmm, je n'arrive pas à m'endormir..."
+    ],
+    "1": [
+      "J'ai mal au ventre... Est-ce une indigestion ?",
+      "Peut-être que ce dîner était trop copieux après tout..."
+    ],
+    "2": [
+      "Ah, je me suis réveillé soudainement... !"
+    ],
+    "3": [
+      "Il est encore au milieu de la nuit.",
+      "Je peux dormir un peu plus...\\w[30].\\w[30].\\w[30].",
+      "Dois-je aller voir ma sœur ?"
+    ],
+    "4": [
+      "Dans la chambre de \\str[120]",
+      "Aller dormir"
+    ],
+    "5": [
+      "Je vais juste dormir jusqu'au matin... ?"
+    ],
+    "6": [
+      "Dormir",
+      "Attendez"
+    ],
+    "7": [
+      "Ahhhhhhhhhhhhhh—!!?"
+    ],
+    "8": [
+      "Q-Quoi ? Oh, c'était juste un cauchemar..."
+    ],
+    "9": [
+      "Ça m'a fait tellement peur...",
+      "Je crois que j'ai vu une version vraiment terrifiante de \\str[120]."
+    ],
+    "10": [
+      "…je devrais aller voir \\str[120].",
+      "Et si ce rêve…"
+    ],
+    "11": [
+      "Ouais, ce rêve était si effrayant...",
+      "Il vaut mieux se reposer tôt..."
+    ]
+  },
+  "2": {
+    "0": [
+      "\\c[10]— Demande de mise à jour des données détectée à partir de la version \\str[1]. \\w[60]",
+      "Souhaitez-vous effectuer la mise à jour automatique maintenant ?"
+    ],
+    "1": [
+      "Démarrer la mise à jour",
+      "Pas grave"
+    ],
+    "2": [
+      "...C'est déjà le matin ?",
+      "J'ai l'impression d'avoir fait une sorte de rêve à propos de",
+      "\\str[120],",
+      "mais je ne m'en souviens pas..."
+    ],
+    "3": [
+      "...C'est déjà le matin ?",
+      "Je n'ai pas l'impression d'avoir bien dormi..."
+    ],
+    "4": [
+      "Ah, c'est déjà le matin ? J'ai si bien dormi."
+    ],
+    "5": [
+      "C'est une belle journée aujourd'hui...\\w[45]hein ?",
+      "Tu as l'impression que la lumière du soleil est un peu trop intense ?"
+    ],
+    "6": [
+      "C'est une belle journée aujourd'hui."
+    ],
+    "7": [
+      "Le temps n'a pas l'air très beau aujourd'hui."
+    ],
+    "8": [
+      "Est-ce qu'il pleut ?",
+      "J'espère que cela n'affectera pas notre aventure..."
+    ],
+    "9": [
+      "Je n'ai pas pris de nouvelles de ma sœur depuis quelques jours…",
+      "Je suppose que je devrais passer aujourd'hui."
+    ],
+    "10": [
+      "Bon, je suis debout. Quel est le programme pour aujourd'hui ?"
+    ],
+    "11": [
+      "Dans la chambre de \\str[120]",
+      "Partez maintenant",
+      "Restez à la maison"
+    ],
+    "12": [
+      "Ok, allons vérifier \\str[120] !"
+    ],
+    "13": [
+      "Ok, il est temps de tout mettre en ordre",
+      "et partez à l'aventure !"
+    ],
+    "14": [
+      "Hmm... de toute façon, le temps n'a pas l'air si beau aujourd'hui.",
+      "À des moments comme celui-ci, rester à la maison et passer du temps avec \\str[120] ",
+      "est définitivement plus intéressant..."
+    ],
+    "15": [
+      "Haa... Je me sens si paresseux aujourd'hui, ",
+      "Je ne trouve pas une once de motivation.",
+      "Ce ne devrait pas être un gros problème de faire le paresseux avec une ",
+      "conscience claire de temps en temps, non ?",
+      "Comparé aux affaires triviales dehors, ",
+      "rester à la maison avec \\str[120] est beaucoup plus amusant."
+    ]
+  },
+  "3": {
+    "0": [
+      "Mon esprit s'éclaircit lentement... ",
+      "Je réalise enfin que je ne suis pas dans ma chambre habituelle.",
+      "Quelque chose de chaud et de doux est pressé fermement contre moi, ",
+      "leur respiration rythmique et douce."
+    ],
+    "1": [
+      "C'est juste \\str[120]...",
+      "Les souvenirs commencent à affluer—         \\w[120]",
+      "Oui, nous étions enlacés tous les deux ",
+      "jusque tard dans la nuit..."
+    ],
+    "2": [
+      "Regardant son visage endormi sans défense, ",
+      "portant encore une faible rougeur de la lueur de la nuit dernière,",
+      "Je ne peux pas m'empêcher de tendre la main, mes doigts s'enfonçant doucement ",
+      "dans ses cheveux, lisses comme de la soie."
+    ],
+    "3": [
+      "\\nl< >\"Uu... mm... ♥\""
+    ],
+    "4": [
+      "Comme si elle sentait l'affection, elle laisse échapper un ",
+      "hum satisfait et brumeux, se blottissant subconsciemment dans ma paume."
+    ],
+    "5": [
+      "\"C'est déjà le matin. Tu peux te lever ?\""
+    ],
+    "6": [
+      "Je pousse doucement son épaule, ",
+      "essayant de la réveiller de son sommeil."
+    ],
+    "7": [
+      "Après que ses longs cils battent quelques fois, ",
+      "elle ouvre enfin les yeux lentement.",
+      " ",
+      " ",
+      "Elle fixe le vide pendant un moment,",
+      "puis penche la tête pour me regarder juste à côté d'elle, ",
+      "ses pupilles remplies de la brume du sommeil."
+    ],
+    "8": [
+      "\\nl< >\"Eh... \\str[121]... ?     \\w[150]",
+      "Pourquoi... es-tu au lit aussi... ?\""
+    ],
+    "9": [
+      "Il semble que son cerveau n'ait pas tout à fait fini de démarrer. ",
+      "elle penche juste la tête, me regardant bêtement pendant longtemps."
+    ],
+    "10": [
+      "Ce n'est pas avant que les souvenirs fragmentés de la nuit dernière ",
+      "se recomposent que le sang afflue ",
+      "à ses joues à une vitesse visible."
+    ],
+    "11": [
+      "\\nl< >\"Uu... ♥                    \\w[120]",
+      "B-bonjour... \\str[121]...    \\w[120]",
+      "À propos de la nuit dernière... euh... merci...\""
+    ],
+    "12": [
+      "Complètement perdue sur comment gérer un tel ",
+      "prédicament timide, elle baisse juste la tête,",
+      "chuchotant un mot de remerciement qui était quelque peu insensé."
+    ],
+    "13": [
+      "L'atmosphère devient subtile et encombrée.",
+      "Nous nous habillons silencieusement en nous tournant le dos, ",
+      "puis, maintenant une compréhension tacite indescriptible,",
+      "nous entrons dans la salle de bain ensemble."
+    ],
+    "14": [
+      "\\nl< >\"...Mmuu... nya...♥         \\w[120]",
+      "\\str[121]... pas là... ça ne va pas...\""
+    ],
+    "15": [
+      "Elle ne laisse échapper qu'un murmure étouffé, ",
+      "agrippant son oreiller et enfouissant son visage encore plus profondément."
+    ],
+    "16": [
+      "Bien que je sois curieux de savoir quel genre de rêve merveilleux elle fait, ",
+      "puisqu'elle dort encore si profondément,",
+      "il vaut mieux ne pas la forcer à se réveiller..."
+    ],
+    "17": [
+      "L'effort de la nuit dernière était trop lourd pour elle après tout,",
+      "Je devrais la laisser dormir un peu plus longtemps..."
+    ],
+    "18": [
+      "Retenant mon souffle, ",
+      "Je décolle doucement son bras encore enroulé autour de moi,",
+      "quittant le lit chaud sans faire un seul bruit."
+    ],
+    "19": [
+      "Prenant un dernier regard à son profil calme, ",
+      "légèrement pâle dans la lumière du matin,",
+      "Je quitte doucement la pièce et ferme doucement la porte."
+    ],
+    "20": [
+      "Regardant son visage endormi sans défense alors que je sais qu'elle a besoin de repos,",
+      "le calme unique à ce matin et le parfum ",
+      "qu'elle rayonne continuent de provoquer ma raison."
+    ],
+    "21": [
+      "Je voulais juste lui tapoter la tête, ",
+      "mais mes doigts glissent involontairement le long de son cou mince.",
+      "De son épaule arrondie à la légère courbe de sa taille, ",
+      "Je sens avidement chaque centimètre de sa peau."
+    ],
+    "22": [
+      "\\nl< >\"...Hnngh ♥      \\w[180]",
+      "Uu... nnh... ah... ♥\""
+    ],
+    "23": [
+      "Même endormie, son corps qui venait de perdre son innocence ",
+      "réagissait déjà à ma touche.",
+      "Elle laisse échapper quelques gémissements inconscients alors qu'elle sentait ",
+      "la chaleur rayonnant de mes doigts."
+    ],
+    "24": [
+      "...Non ! À quoi je pense !",
+      "Comment pourrais-je lui faire ça si tôt le matin...",
+      "Je ferais mieux de me lever !"
+    ],
+    "25": [
+      "\\nl< >\"Pique... pique...\""
+    ],
+    "26": [
+      "Ma conscience dérivait encore sur le bord d'un brouillard brumeux,",
+      "quand des chuchotements clairs et doux atteignirent mes oreilles, ",
+      "accompagnés de touches intermittentes sur ma joue."
+    ],
+    "27": [
+      "\\nl< >\"Pique... pique...      \\w[150]",
+      "\\str[121] ne veut vraiment pas se réveiller du tout...\""
+    ],
+    "28": [
+      "On avait l'impression que quelqu'un à côté de moi tapait sans relâche ",
+      "et piquait mon visage."
+    ],
+    "29": [
+      "\"Pince... Maintenant ton nez est attrapé...        \\w[150]",
+      "Combien de secondes peux-tu tenir, \\str[121]~ ?\""
+    ],
+    "30": [
+      "J'étais surpris qu'elle se soit réveillée avant moi,",
+      "mais face à une farce si mignonne, ",
+      "Je n'avais pas l'intention de me dévoiler encore."
+    ],
+    "31": [
+      "J'ai secrètement pris une profonde respiration par ma bouche, ",
+      "qui n'était pas restreinte,",
+      "puis concentré toute mon énergie sur mon nez ",
+      "et soufflé un soudain, fort courant d'air !"
+    ],
+    "32": [
+      "\\{\\nl< >\"W-Woaah~~ ! \\str[121] a explosé~~!?\"",
+      "\\w[90] "
+    ],
+    "33": [
+      "La force soudaine a agi comme une mini pompe à air, ",
+      "faisant instantanément sauter ses doigts.",
+      "Ne s'attendant pas à ça, \\str[120] laisse échapper un cri qui ",
+      "était un mélange de surprise et d'excitation."
+    ],
+    "34": [
+      "\\nl< >\"...Mais il n'est toujours pas réveillé~     \\w[120]",
+      "Comme c'est étrange, c'était juste un éternuement ?\""
+    ],
+    "35": [
+      "\\nl< >\"Pique... pique...    \\w[150]",
+      "\\str[121] ne veut vraiment pas se réveiller~\""
+    ],
+    "36": [
+      "Voyant que je restais sans réaction les yeux fermés, ",
+      "elle s'est penchée avec un soupçon de frustration,",
+      "ses doigts testant sans repos les bords de mes lèvres une fois de plus."
+    ],
+    "37": [
+      "\\{\"Gawuu~~~~!!\"     \\w[60]\\^"
+    ],
+    "38": [
+      "Au moment où ses doigts se sont approchés de ma bouche à nouveau,",
+      "J'ai saisi l'opportunité et ouvert ma mâchoire, ",
+      "prenant le doigt entier à l'intérieur."
+    ],
+    "39": [
+      "\\{\\nl< >\"Wueeeeee~~!? Je me suis fait mordre—    \\w[90]",
+      "Non, je me fais lécher~~ !\""
+    ],
+    "40": [
+      "\\nl< >\"\\str[121] ! ",
+      "Tu es réveillé depuis tout ce temps, non~ !   \\w[90]",
+      "Lâche ma main déjà~~ !\""
+    ],
+    "41": [
+      "Ayant été contré pour la deuxième fois,",
+      "\\str[120] laisse échapper un autre couinement de surprise.",
+      "À ce stade, elle a clairement réalisé qu'elle avait été jouée ",
+      "depuis le tout début."
+    ],
+    "42": [
+      "\"Fille impudente !",
+      "Oser trespasser dans la tanière du dragon,",
+      "prépare-toi à être dévoré !\""
+    ],
+    "43": [
+      "Sentant que le moment était venu, j'ai ouvert les yeux.",
+      "Même avec son doigt toujours dans ma bouche, ",
+      "J'ai délibérément utilisé une voix profonde et grave pour laisser échapper un grognement de monstre."
+    ],
+    "44": [
+      "\\nl< >\"Je n'ai pas peur de ça du tout~ !",
+      "Le Grand Dragon Maléfique dormait comme une bûche il y a une seconde... !\""
+    ],
+    "45": [
+      "\\str[120] s'agite et lutte sous les couvertures, ",
+      "réagissant à la sensation glissante et chatouilleuse contre son doigt.",
+      "Dans ses rires clairs et satisfaits, il n'y avait pas une seule trace de peur."
+    ],
+    "46": [
+      "Cette apparence sans défense et complètement vulnérable d'elle",
+      "a fait que le désir supprimé pendant la nuit ",
+      "gonfle à son pic à ce moment précis—"
+    ],
+    "47": [
+      "\"Rawr— ! Le Dragon est en mouvement !\""
+    ],
+    "48": [
+      "\\nl< >\"Hahahaha... ça chatouille !",
+      "\\str[121]... arrête !",
+      "Pas là... ha, haha !\""
+    ],
+    "49": [
+      "...Aujourd'hui sera sûrement un autre jour paisible et tranquille.",
+      "J'ai continué à lécher le côté de son cou et de son oreille, ",
+      "qui étaient devenus chauds de sa rougeur.",
+      "\\w[30]",
+      "Écoutant son lovely rire, ",
+      "J'ai prié du fond de mon cœur que ",
+      "cette vie puisse durer pour toujours..."
+    ],
+    "6.5": [
+      "\\nl< >\".................. Nnn.\""
+    ],
+    "29.2": [
+      "Ma respiration est devenue difficile en un instant.",
+      "Je pouvais sentir quelqu'un pinçant mes narines avec deux doigts,",
+      "et je pouvais même entendre son peu profonde, ",
+      "respiration rapide alors qu'elle étouffait un rire."
+    ],
+    "29.4": [
+      "............C'est \\str[120], non ?",
+      "Les souvenirs ont commencé à affluer—",
+      "Oui, nous avons fini par dormir ensemble la nuit dernière."
+    ]
+  },
+  "4": {
+    "0": [
+      "...Hein !?\\w[60]...Attends, \\w[60]",
+      "est-ce déjà le matin... ?"
+    ],
+    "1": [
+      "J'ai la tête qui tourne...",
+      "Est-ce que je me suis endormi comme ça la nuit dernière... ?"
+    ],
+    "2": [
+      "Je ne me souviens pas de ce qui s'est passé la nuit dernière... \\w[90]",
+      "Eh bien, j'étais probablement trop épuisé."
+    ]
+  }
+}

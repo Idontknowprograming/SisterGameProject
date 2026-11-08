@@ -1,0 +1,74 @@
+{
+  "grids": [
+    {
+      "Slots": [
+        {
+          "Name": "R Key",
+          "BackgroundImage": "Char_slot",
+          "Button": "R, RB",
+          "TextOffsetY": "10",
+          "SpecialBehavior": "item_only"
+        }
+      ],
+      "ControllableViaGamepad": "true",
+      "BackgroundImage": "",
+      "RowColumn": "1, 1",
+      "Padding": "4"
+    },
+    {
+      "Slots": [
+        {
+          "Name": "R Key M Left",
+          "BackgroundImage": "",
+          "Button": "F",
+          "TextOffsetY": "8",
+          "SpecialBehavior": "none"
+        },
+        {
+          "Name": "R Key M Right",
+          "BackgroundImage": "",
+          "Button": "G",
+          "TextOffsetY": "8",
+          "SpecialBehavior": "none"
+        },
+        {
+          "Name": "R Key M",
+          "BackgroundImage": "HotBat_M",
+          "Button": "R, RB",
+          "TextOffsetY": "12",
+          "SpecialBehavior": "none"
+        }
+      ],
+      "ControllableViaGamepad": "true",
+      "BackgroundImage": "",
+      "RowColumn": "3",
+      "Padding": "4"
+    }
+  ],
+  "positions": {
+    "R Key": {
+      "x": 1874,
+      "y": 732
+    },
+    "R Key M Left": {
+      "x": 95,
+      "y": 515
+    },
+    "R Key M Right": {
+      "x": 332,
+      "y": 515
+    },
+    "R Key M": {
+      "x": 218,
+      "y": 515
+    },
+    "grid_R Key": {
+      "x": 1877,
+      "y": 730
+    },
+    "grid_R Key M Left": {
+      "x": 210,
+      "y": 520
+    }
+  }
+}

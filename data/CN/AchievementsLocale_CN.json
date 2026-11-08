@@ -1,0 +1,210 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "和妹妹一起的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "妹妹永远是最重要之人"
+    },
+    "RPG": {
+      "Category Name": "在深渊战斗的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "战斗吧…战斗吧！"
+    },
+    "Gacha": {
+      "Category Name": "各种收集物的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "听说集齐了所有的物品就能召唤——"
+    },
+    "Ryouri": {
+      "Category Name": "料理的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "料理是带给人们幸福的东西"
+    },
+    "Hentai": {
+      "Category Name": "色色的回忆",
+      "New Scene Name": "",
+      "Trophy Description": "女孩子是由砂糖、香辛料和某些美好东西组成的"
+    }
+  },
+  "achievements": {
+    "WhereIsImouto": {
+      "Name": "妹妹在哪里？",
+      "Description": "一定要找到心爱的少女——",
+      "Pop Up Desc": "妹妹在哪里……？"
+    },
+    "ItsMyImouto": {
+      "Name": "是我的妹妹啊！",
+      "Description": "心爱的少女就在眼前",
+      "Pop Up Desc": "是妹妹啊！"
+    },
+    "JoyStation V": {
+      "Name": "游戏机Get!",
+      "Description": "可以和妹妹一起玩游戏了！",
+      "Pop Up Desc": [
+        "\\fs[24]虽然是游戏，",
+        "但可不是闹着玩的"
+      ]
+    },
+    "ImoutoBodyPillow": {
+      "Name": "妹妹的靠枕",
+      "Description": "可以把妹妹抱在腿上了！",
+      "Pop Up Desc": "有妹妹不就好了吗？"
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "我的妹妹就是这么可爱！",
+      "Description": "和妹妹的亲密度达到顶点！",
+      "Pop Up Desc": "我的妹妹就是这么可爱！"
+    },
+    "GachaIsBadCivilization": {
+      "Name": "扭蛋是坏文明！",
+      "Description": "在扭蛋上浪费太多钱被妹妹训了……",
+      "Pop Up Desc": "扭蛋是坏文明！"
+    },
+    "CanYouSendMe50K": {
+      "Name": "请给我50000元~！",
+      "Description": "给妹妹发了5万以上的红包！",
+      "Pop Up Desc": "请给我50000元~！"
+    },
+    "ShinkonSantaku": {
+      "Name": "新婚三问！",
+      "Description": "让妹妹演绎了一次新婚三问！",
+      "Pop Up Desc": "新婚三问！"
+    },
+    "ToBeContinued": {
+      "Name": "To Be Continued",
+      "Description": "拍下了奇迹的瞬间！",
+      "Pop Up Desc": "To Be Continued"
+    },    
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "人被杀就会死？",
+      "Description": "在深渊里体力归零……",
+      "Pop Up Desc": "人被杀就会死？"
+    },
+    "HoardingHabit": {
+      "Name": "仓鼠党",
+      "Description": "向星之门放入了大量物品",
+      "Pop Up Desc": [
+        "\\fs[24]得了一种不囤东西",
+        "就会死的病"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "转生异世界？",
+      "Description": "被商店车无情碾过……",
+      "Pop Up Desc": "异世界转生魔法！？"
+    },
+    "YouAreAlreadyDead": {
+      "Name": "镇魂曲",
+      "Description": "被死神宣告了死亡",
+      "Pop Up Desc": "你已经死了"
+    },
+    "AirKing": {
+      "Name": "击坠王",
+      "Description": "已经不知道坠落多少次了…",
+      "Pop Up Desc": [
+        "\\fs[24]「难道你不想和天空",
+        "做朋友吗！」"
+      ]
+    },
+    "Shichosei": {
+      "Name": "闪耀的死兆星",
+      "Description": "被ASABA以特殊技击败",
+      "Pop Up Desc": [
+        "\\fs[24]「看啊,你的死兆星",
+        "在天上闪耀！」"
+      ]
+    },
+    "ServantAndMaster": {
+      "Name": "从者和御主",
+      "Description": "同时使役五只从者",
+      "Pop Up Desc": [
+        "\\fs[24]「试问。",
+        "你就是我们的御主吗？」"
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "为王的诞生、庆贺吧！",
+      "Description": "第一次和BOSS发生战斗",
+      "Pop Up Desc": "为王的诞生、庆贺吧！"
+    },
+    "UnlimitedBladeWaste": {
+      "Name": "无限剑冢",
+      "Description": "用坏了超过100把武器",
+      "Pop Up Desc": "——武器的储备还够吗？"
+    },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "十里坡剑神",
+      "Description": "坚持每日挥剑的成果",
+      "Pop Up Desc": "十里坡剑神"
+    },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "看到了无比珍奇的场面啊",
+      "Description": "目睹了苹果妖精的诞生",
+      "Pop Up Desc": "看到了无比珍奇的场面啊"
+    },
+    "WhoNeedsAFishingRod": {
+      "Name": "授人以鱼，不如授人以……渔？",
+      "Description": "累积向水里投掷10个炸弹",
+      "Pop Up Desc": [
+        "授人以鱼，不如授人以……",
+        "渔？"
+      ]
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "为了检测我的器量",
+      "Description": "掌握了忍者的技艺",
+      "Pop Up Desc": "「为了检测我的器量。」"
+    },
+    "DonotYouEverStop": {
+      "Name": "不要停下来啊！",
+      "Description": "用超高速持续奔跑",
+      "Pop Up Desc": "不要停下来啊！"
+    },
+    "YouAreBeingSummoned": {
+      "Name": "◉▽◉在召唤你",
+      "Description": "发现了古代生物！",
+      "Pop Up Desc": "◉▽◉在召唤你"
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "你也可以变成光！",
+      "Description": "aki的诅咒发作了",
+      "Pop Up Desc": "你也可以变成光！"
+    },
+    "ObtainWornPanties": {
+      "Name": "没被穿过的胖次是没有价值的！",
+      "Description": "收到了妹妹送的胖次~！",
+      "Pop Up Desc": [
+        "\\fs[24]没被穿过的胖次是没有",
+        "价值的！"
+      ]
+    },
+    "ErogameWithImouto": {
+      "Name": "无可救药的妹控",
+      "Description": "在妹妹的房间用妹妹的电脑玩对妹妹色色的游戏",
+      "Pop Up Desc": "玩妹妹游戏？"
+    },
+    "Milkeddry": {
+      "Name": "被榨干了…",
+      "Description": "已经、一滴都不剩了……",
+      "Pop Up Desc": [
+        "\\fs[24]「已经、",
+        "一滴都不剩了……」"
+      ]
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "通往大人的阶梯♥",
+      "Description": "让妹妹看色色的同人本",
+      "Pop Up Desc": "通往大人的阶梯♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "通往大人的阶梯♥♥",
+      "Description": "让妹妹使用色色的玩具",
+      "Pop Up Desc": "通往大人的阶梯♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "通往大人的阶梯♥♥♥",
+      "Description": "让妹妹体验性的快乐",
+      "Pop Up Desc": "通往大人的阶梯♥♥♥"
+    }
+  }
+}

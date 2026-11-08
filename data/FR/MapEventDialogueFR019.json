@@ -1,0 +1,770 @@
+{
+  "1": {
+    "0": [
+      "Je retiens mon souffle, me déplaçant vers la tête du lit de \\str[120] ",
+      "aussi silencieusement qu'un fantôme dans la nuit.",
+      "...Heh, même moi je suis impressionné par des compétences de furtivité comme celles-ci."
+    ],
+    "1": [
+      "Je déplace soigneusement mes pieds vers le côté du lit,",
+      "terrifié que le léger grincement des planches du sol puisse réveiller \\str[120]."
+    ],
+    "2": [
+      "Que devrais-je faire... ?"
+    ],
+    "10": [
+      "D'abord, je devrais examiner attentivement l'état de \\str[120].",
+      "\\w[60]\\^"
+    ],
+    "11": [
+      "\\str[120] dort si profondément, ",
+      "elle ne remarquera probablement pas si je lui donne quelques légères touches, non... ?",
+      "\\w[60]\\^"
+    ],
+    "12": [
+      "Gloups... Je commence à devenir nerveux...",
+      "\\w[60]\\^"
+    ],
+    "13": [
+      "Il est plus sûr de garder un peu de distance pour l'instant.",
+      "ça sera un désastre si je suis attrapé...",
+      "\\w[60]\\^"
+    ],
+    "14": [
+      "En fait, je vais m'approcher un peu plus... ",
+      "Je veux la voir plus clairement.",
+      "\\w[60]\\^"
+    ],
+    "15": [
+      "Devrais-je arrêter ici... ?",
+      "Il se fait tard."
+    ],
+    "16": [
+      "Retourner dormir",
+      "Rester un peu"
+    ],
+    "17": [
+      "Ouais, je devrais me dépêcher de retourner dormir aussi."
+    ],
+    "18": [
+      "Je vais rester juste un peu plus longtemps.",
+      "Je ne me lasse jamais de regarder ce visage endormi sans défense..."
+    ],
+    "19": [
+      "Mince, avant ça, ",
+      "Je dois remettre les vêtements de \\str[120] que j'ai dérangés.",
+      "Je ne peux laisser aucune trace—"
+    ],
+    "20": [
+      "Ouf, ça ressemble exactement à comment c'était avant..."
+    ],
+    "21": [
+      "Je ne peux pas résister à donner une dernière tape sur la tête de \\str[120]",
+      "avant de retourner satisfait dans ma chambre et de m'endormir."
+    ],
+    "22": [
+      "Oh non, il est déjà si tard—        \\w[30]",
+      "Je dois me lever tôt demain, ",
+      "Je dois retourner dormir maintenant..."
+    ],
+    "23": [
+      "Mauvais signe, les paupières de \\str[120] tremblent.",
+      "elle est sur le point de se réveiller— ! Je ne peux pas continuer !",
+      "terminons les choses ici pour ce soir..."
+    ],
+    "24": [
+      "Je roule soigneusement le corps de \\str[120].",
+      "Bien que le bruit des vêtements frottant contre les draps soit perçant",
+      "dans le silence mort de la pièce, \\str[120] semble complètement ",
+      "perdue dans un rêve profond sans signe de réveil."
+    ]
+  },
+  "2": {
+    "0": [
+      "Qu'est-ce que c'est... une sorte de nouvelle espèce mignonne de reptile ?",
+      "Je savais que \\str[120] avait parfois de mauvaises habitudes de sommeil,",
+      "mais cette pose bizarre devant moi me laisse ",
+      "dans un état momentané de confusion."
+    ],
+    "1": [
+      "Quel genre de rêve résulte en une pose comme ça..."
+    ],
+    "2": [
+      "Même si \\str[120] dort profondément ",
+      "et ne semble pas inconfortable,",
+      "J'ai décidé de corriger sa posture de sommeil.",
+      "c'est juste trop inquiétant à regarder autrement..."
+    ],
+    "3": [
+      "\"....................\""
+    ],
+    "4": [
+      "Grâce à mes efforts, ",
+      "J'ai réussi à mettre \\str[120] dans une position différente."
+    ],
+    "5": [
+      "\"...Ah, mince !",
+      "Ça a fini par être une pose de sommeil bizarre après tout... !\""
+    ]
+  },
+  "6": {
+    "0": [
+      "Le visage de \\str[120] est rouge d'un cramoisi inhabituellement profond, ",
+      "une chaleur qui semble s'être propagée de ses joues à ses oreilles.",
+      "Ses halètements humides et rapides sont clairement audibles dans la pièce silencieuse,",
+      "comme si chaque respiration racontait une histoire d'une émotion indicible."
+    ],
+    "1": [
+      "La joue ronde et charnue de \\str[120] bombe légèrement contre l'oreiller.",
+      "Ce visage endormi sans défense rayonne d'une pureté innocente et enfantine.",
+      "juste la regarder apporte un sentiment de paix intérieure qui guérit l'âme."
+    ],
+    "2": [
+      "Au moment où mes doigts touchent la joue de \\str[120], ",
+      "une chaleur inhabituelle et brûlante est transmise à travers eux.",
+      "Les fines gouttelettes de sueur suintant de la chaleur donnent à sa ",
+      "peau une texture délicate, glissante et humide."
+    ],
+    "3": [
+      "J'essaie de pincer doucement la joue gonflée de \\str[120].",
+      "La texture douce, comme du mochi, rebondissante est absolument addictive ;",
+      "l'élasticité épaisse sous mes doigts ressemble exactement à ",
+      "des joues d'écureuil."
+    ],
+    "4": [
+      "Je vais essayer de tapoter la tête de \\str[120]. ",
+      "peut-être que ça l'aidera à dormir plus paisiblement."
+    ],
+    "5": [
+      "Je tends la main, mes doigts s'enfonçant doucement dans les cheveux ",
+      "soyeux et lisses de \\str[120], caressant lentement sa petite tête.",
+      "\\str[120] laisse échapper un murmure satisfait et faible, ",
+      "semblant pouvoir sentir ma touche même dans son sommeil."
+    ],
+    "6": [
+      "Je presse ma paume contre le front légèrement moite de \\str[120],",
+      "massant à plusieurs reprises à travers les racines collantes de ses cheveux, ",
+      "absorbant ce parfum épais qui est presque entêtant.",
+      " ",
+      "Même si son corps tressaute par réflexe à cause de la chaleur, ",
+      "son front précédemment froncé se détend progressivement."
+    ],
+    "7": [
+      "Écartant les mèches argentées sur sa joue, ",
+      "les oreilles longues et pointues de \\str[120] sont révélées.",
+      "Sous la lumière tamisée, ces oreilles ont une qualité presque transparente,",
+      "se levant et s'abaissant légèrement avec son souffle, apparaissant à la fois sacrées et sereines."
+    ],
+    "8": [
+      "Même dans la pièce sombre, il est évident d'un coup d'œil que ",
+      "les pointes des oreilles de \\str[120] sont assez rouges pour saigner du sang.",
+      "Cette chaleur imminente est une accusation silencieuse de l'indicible ",
+      "agitation en elle..."
+    ],
+    "9": [
+      "Je tends la main, mes doigts traçant légèrement le bord frais et ",
+      "délicat de l'oreille de \\str[120].",
+      "Alors que je la caresse doucement, elle laisse échapper un doux, ",
+      "ronronnement de chaton de confort."
+    ],
+    "10": [
+      "Au moment où je pince ces pointes d'oreilles brûlantes, ",
+      "une chaleur surprenante se propage à travers mes doigts.",
+      "Avec juste un léger massage, le corps de \\str[120] commence à trembler doucement."
+    ]
+  },
+  "7": {
+    "0": [
+      "La petite main de \\str[120] repose tranquillement sur le côté, ",
+      "ses doigts fins et blanc ivoire."
+    ],
+    "1": [
+      "Je prends doucement la main fraîche et douce de \\str[120] dans la mienne,",
+      "mes doigts traçant le contour de ses jointures fragiles, ",
+      "taquinant occasionnellement sa paume avec une pichenette espiègle."
+    ],
+    "2": [
+      "\\str[120] a ses jambes recroquevillées, ",
+      "ses orteils pâles se crochetant naturellement dans son sommeil profond.",
+      "L'arc délicat de sa voûte plantaire dégage une brillance satinée ",
+      "sous la lumière."
+    ],
+    "3": [
+      "Les pointes des dix petits orteils de \\str[120] s'agrippent par réflexe ",
+      "aux draps à cause d'une étrange chaleur, et la fine sueur ",
+      "sur ses plantes de pieds reflète une lueur glissante dans la lumière."
+    ],
+    "4": [
+      "Je tends la main, ",
+      "mes doigts effleurant légèrement les plantes des pieds de \\str[120].",
+      "Même avec juste ce niveau de caresse, elle recroqueville ses jambes ",
+      "encore plus serré comme si elle était chatouilleuse."
+    ],
+    "5": [
+      "Tenant ces plantes qui sont roses de la forte fièvre, ",
+      "une chaleur surprenante se propage instantanément à mes doigts.",
+      " ",
+      " ",
+      "Alors que je les masse avec espièglerie, ",
+      "ses dix petits orteils se recroquevillent fermement par hypersensibilité,",
+      "étirant sa voûte plantaire blanche en une courbe tentante."
+    ],
+    "6": [
+      "Dans sa position couchée sur le côté, ",
+      "le ventre de \\str[120] forme une courbe extrêmement plate et douce.",
+      "Il se lève et s'abaisse uniformément avec sa respiration régulière, ",
+      "rayonnant d'une beauté vulnérable et innocente."
+    ],
+    "7": [
+      "Je repose doucement ma main sur son ventre plat et doux.",
+      "D'habitude, \\str[120] se plaindrait de si je pense qu'elle grossit,",
+      "et penser à ça me donne encore plus envie de le frotter."
+    ],
+    "8": [
+      "Dans la lumière tamisée, ",
+      "la peau sur tout le corps de \\str[120] a une teinte ivoire translucide.",
+      "L'air est rempli d'un faible parfum de jeune fille, ",
+      "comme si chaque centimètre de sa peau rayonnait d'une aura tentante."
+    ],
+    "9": [
+      "La peau originellement blanche de \\str[120] est maintenant rouge d'un ",
+      "pêche-rouge tentant, surtout à ses articulations et son cou, ",
+      "où la rougeur est particulièrement profonde et humide.",
+      " ",
+      "À cause de sa température qui monte, un épais, ",
+      "parfum entêtant de jeune fille flotte dans l'air,",
+      "rendant impossible de ne pas vouloir la sentir d'encore plus près."
+    ],
+    "10": [
+      "Mes doigts glissent sur la peau de \\str[120]. ",
+      "cette touche soyeuse et lisse et fraîche, combinée avec une fille",
+      "élasticité surprenante, rend difficile de s'en détacher."
+    ],
+    "11": [
+      "Au moment où je touche la peau de \\str[120], ",
+      "mes doigts sont enveloppés d'une chaleur surprenante.",
+      "Chaque centimètre de peau pressé par mes doigts laisse une marque rouge temporaire.",
+      "même dans son sommeil, son corps tremble avec mes mouvements."
+    ]
+  },
+  "8": {
+    "0": [
+      "En se penchant, chaque respiration est remplie du faible parfum d'oranges de \\str[120].",
+      "À travers le camisole fin, ces contours fermes sont clairement visibles,",
+      "avec les deux petits points au centre se détachant nettement sous l'ombre de la lampe."
+    ],
+    "1": [
+      "En se penchant, chaque respiration est remplie du faible parfum d'oranges de \\str[120].",
+      "À travers le camisole fin, ces contours fermes sont clairement visibles,",
+      "se levant et s'abaissant dans ma vision avec son souffle."
+    ],
+    "2": [
+      "Alors que le camisole est tiré vers le bas un peu, ",
+      "le bord d'une aréole faible devient vaguement visible.",
+      "Sans la contrainte des vêtements, cette sensation tangible de plénitude ",
+      "est plusieurs fois plus spectaculaire que lorsqu'elle est vue à travers le tissu."
+    ],
+    "3": [
+      "Le camisole a été tiré vers le bas de plus de la moitié. ",
+      "Les seins de \\str[120] sont presque entièrement exposés.",
+      "Les mamelons et les aréoles sont d'un rose vif et non développé, ",
+      "leur forme ronde et parfaite."
+    ],
+    "4": [
+      "Les seins de \\str[120] sont présentés devant moi sans aucune dissimulation.",
+      "Contrairement à sa silhouette mince, ",
+      "ils sont comme des fruits lourds accrochés à une branche mince ;",
+      "juste les regarder me donne envie de prendre une bouchée dure."
+    ],
+    "5": [
+      "Je tends la main et en attrape un à travers le camisole. ",
+      "ma paume est instantanément remplie d'extrême douceur.",
+      " ",
+      " ",
+      "Mes doigts tracent ce contour ferme à travers le tissu. ",
+      "\\str[120] semble apprécier cette caresse profonde,",
+      "alors que sa respiration devient encore plus douce dans son discours de sommeil."
+    ],
+    "6": [
+      "Je tends la main et en attrape un à travers le camisole. ",
+      "ma paume est instantanément remplie d'extrême douceur.",
+      "Cette sensation—s'enfonçant comme une guimauve mais éclatant de vie—",
+      "est vraiment impossible à quitter."
+    ],
+    "8": [
+      "Maintenant que le camisole est tiré vers le bas de moitié, ",
+      "Je peux enfin la toucher directement.",
+      "La chaleur surprenante autour de l'aréole fait chaque glissement de ",
+      "mes doigts se sentir comme marcher sur un bord brûlant."
+    ],
+    "9": [
+      "Les mamelons aux pointes sont devenus complètement érigés.",
+      "Quand je les tords avec mes doigts, ils se sentent incroyablement chauds,",
+      "une sensation complètement différente de les toucher à travers les vêtements."
+    ],
+    "10": [
+      "Mes doigts s'enfoncent profondément dans cette masse de chair charnue et douce. ",
+      "cette sensation ultime me fait frissonner d'excitation."
+    ],
+    "11": [
+      "Alors que plus de camisole est tiré vers le bas,",
+      "la zone que je peux toucher devient de plus en plus grande."
+    ],
+    "12": [
+      "Je prends le sein de \\str[120] entièrement dans ma main et le masse avec envie,",
+      "comme une boule de pâte crue douce, ",
+      "changeant en diverses formes osées sous ma force."
+    ],
+    "13": [
+      "Ma paume est occasionnellement effleurée par ce petit point dur.",
+      "si je sens attentivement, je peux clairement dire que ",
+      "la température corporelle de \\str[120] augmente."
+    ],
+    "14": [
+      "Le battement de cœur de \\str[120] passe à travers cette couche de graisse douce",
+      "et est clairement transmis à ma paume."
+    ],
+    "15": [
+      "Ces monticules doux et charnus chauds de \\str[120] ont enfin ",
+      "tombé complètement dans mes mains. ",
+      "Cette chair tangible et cette chaleur corporelle rendent ces tentatives précédentes ",
+      "à travers le camisole semblent assez ternes."
+    ],
+    "16": [
+      "Quand je pince et taquine le mamelon avec un peu plus de force,",
+      "Je peux entendre un faible gémissement s'échapper de ses lèvres, et son petit corps tressaute."
+    ],
+    "17": [
+      "Chaque massage résulte en un retour complètement différent et frais ;",
+      "ma paume semble être fermement collée à elle comme par une magie appelée désir."
+    ],
+    "19": [
+      "À cause de sa position couchée sur le côté, recroquevillée, ",
+      "les jambes de \\str[120] sont fermement croisées,",
+      "serrant la base de ses cuisses en une courbe charnue et douce. ",
+      "sa peau est si blanche qu'elle semble briller."
+    ],
+    "20": [
+      "La peau à l'intérieur des cuisses de \\str[120] est actuellement rouge ",
+      "d'un rose tentant, avec de fines gouttelettes de sueur glissant sur son entrejambe.",
+      "Alors que sa respiration devient agitée, ",
+      "ses pieds croisés se frottent occasionnellement l'un contre l'autre."
+    ],
+    "21": [
+      "Je tends la main et glisse ma main le long de cette longue ligne, ",
+      "mes doigts s'enfonçant dans la chair douce à la base de sa cuisse.",
+      " ",
+      " ",
+      "Même avec juste ce niveau de caresse douce, ",
+      "\\str[120] donne instinctivement un petit coup de pied dans son sommeil.",
+      "Je trouve ce retour animal plutôt intéressant."
+    ],
+    "22": [
+      "Alors que je glisse timidement mes doigts dans cet ",
+      "écartement fermement fermé entre ses cuisses, ",
+      "\\str[120] serre ses jambes par réflexe.",
+      " ",
+      "Mes doigts sont immédiatement enveloppés et ",
+      "serrés par deux masses de chair chaude et douce.",
+      "surtout avec la fine sueur de sa température qui monte, ",
+      "cette friction peau contre peau devient exceptionnellement glissante."
+    ],
+    "23": [
+      "Même à travers ce short duveteux,",
+      "les contours arrondis des fesses de \\str[120] sont clairement visibles, ",
+      "étirant le tissu serré."
+    ],
+    "24": [
+      "\"Hehe... elle porte \\sa[\\v[90]] en ce moment.",
+      "On dirait que ce sera la couleur porte-bonheur de demain~\""
+    ],
+    "25": [
+      "Alors que le short est tiré vers le bas un peu, le bord de ce blanc, ",
+      "sillon fessier profond devient visible.",
+      "Juste en regardant la chair pressée par la pression, ",
+      "Je peux imaginer à quel point la texture est bonne."
+    ],
+    "26": [
+      "Le bord du petit panty s'est enfoncé profondément dans la courbe du sillon,",
+      "faisant ressortir complètement la qualité lourde des fesses de \\str[120].",
+      "Cet arc charnu et serré, associé aux faibles rides,",
+      "te donne juste envie de tendre la main et de le toucher."
+    ],
+    "27": [
+      "Les fesses de \\str[120] sont présentées devant moi sans aucune dissimulation, ",
+      "dégageant une lueur glissante dans la lumière.",
+      "J'ai vraiment envie de lui donner une bonne tape juste pour la voir gigoter."
+    ],
+    "28": [
+      "Masser les fesses de \\str[120] à travers le tissu duveteux ",
+      "ressemble à jouer avec un grand animal en peluche.",
+      "ce rebondissement doux et comme du mochi me donne envie de le serrer encore quelques fois."
+    ],
+    "29": [
+      "............Attends, c'est étrange.",
+      "Je n'ai pas remarqué quand, ",
+      "mais ma paume commence à sentir une humidité collante.",
+      "Pourquoi le tissu originellement sec commence à devenir collant ?"
+    ],
+    "30": [
+      "Alors que le short est tiré vers le bas un peu plus, ",
+      "ma paume franchit enfin l'obstruction du tissu",
+      "et repose tangible contre les fesses de \\str[120].",
+      "La satisfaction intense me fait le serrer fort quelques fois."
+    ],
+    "31": [
+      "Sans le short pour le cacher, ",
+      "les fesses arrondies de \\str[120] sont complètement présentées devant moi.",
+      " ",
+      " ",
+      "De plus, ce petit panty coupe encore profondément dans son sillon,",
+      "définissant complètement le contour de ses fesses, ",
+      "rendant même les rides tentantes clairement visibles."
+    ],
+    "32": [
+      "Avec un peu d'esprit espiègle, j'étends mon doigt",
+      "et l'enfonce lentement vers l'indentation la plus profonde—",
+      "Alors que le tissu est poussé dans cette fente étroite par mon doigt, le déjà ",
+      "contour proéminent devient encore plus profond et défini par la pression."
+    ],
+    "33": [
+      "Ce qui m'excite encore plus est que le tissu ",
+      "poussé à l'intérieur est instantanément trempé par une vague d'humidité.",
+      "Avec juste un remuement de mon doigt, je peux sentir que ",
+      "cette humidité collante se propage autour de mon doigt."
+    ],
+    "34": [
+      "Les fesses de \\str[120] sont maintenant affichées devant moi complètement nues.",
+      "J'essaie de presser ma paume entière fermement contre elles,",
+      "puis avec espièglerie les attrape et les masse à mon gré."
+    ],
+    "35": [
+      "Après juste quelques tours de massage, ",
+      "ma paume est soudainement tachée d'une brillance claire et collante.",
+      " ",
+      " ",
+      "C'est le jus d'amour humide suintant de la partie la plus profonde du sillon, ",
+      "étant répété à plusieurs reprises par mes mouvements,",
+      "rendant chaque pression suivante exceptionnellement glissante."
+    ],
+    "36": [
+      "Cette élasticité douce et charnue est pleine de guérison.",
+      "J'ai presque envie de l'utiliser comme oreiller et de dormir comme ça."
+    ],
+    "37": [
+      "Le short ennuyeux bloque toujours l'endroit le plus critique. ",
+      "cette sensation de 'un pas de loin' est vraiment taquine.",
+      "Il semble que je ne pourrai pas voir le vrai paysage à moins que ",
+      "je ne les tire vers le bas un peu plus."
+    ],
+    "38": [
+      "Même si le short est à moitié descendu, ",
+      "le panty à l'intérieur garde toujours le dernier passage.",
+      "Ce regard 'à moitié caché' est le plus agonisant. ",
+      "Je ne peux voir qu'un tout petit bout du bord blanc pur dans cette fente étroite."
+    ],
+    "39": [
+      "...En regardant de près, je peux voir une petite tache de couleur profonde ",
+      "taches d'eau s'étendant au milieu de cette fente étroite.",
+      "Ce regard humide et translucide... même sans le toucher, ",
+      "Je peux sentir une chaleur surprenante."
+    ],
+    "40": [
+      "Sans le short pour le cacher, le contour de sa fente, ",
+      "fermement défini par le tissu blanc pur, est clairement visible.",
+      "Même si la vraie chose est toujours cachée, ",
+      "cette vue alléchante et à moitié cachée est encore plus excitante."
+    ],
+    "41": [
+      "Même si son panty a été tiré vers le bas un peu,",
+      "les couches de tissu blanc sont toutes amassées à la base de ses cuisses,",
+      "obstruant complètement la vue la plus critique.",
+      " ",
+      "Cette sensation d'être si proche, ",
+      "mais toujours incapable d'atteindre son jardin secret, est vraiment agonisante."
+    ],
+    "42": [
+      "Je repose ma paume sur le bas du corps de \\str[120] et ",
+      "la caresse d'avant en arrière lentement.",
+      "À travers cette couche épaisse de tissu, ",
+      "tout ce que je peux sentir est une masse de chaleur et de douceur surprenantes.",
+      "La résistance de la friction du tissu ne fait qu'alimenter ",
+      "mon désir de l'arracher complètement."
+    ],
+    "43": [
+      "...Ma paume est bientôt remplie d'une humidité collante.",
+      "Il semble que le corps de \\str[120] est déjà devenu un désordre à cause de la chaleur.",
+      "même un tissu de cette épaisseur est sur le point d'être ",
+      "trempé de jus d'amour."
+    ],
+    "44": [
+      "J'ai tendu la main, ",
+      "m'attendant à être bloqué par le tissu de son panty,",
+      "mais au moment où mes doigts l'ont effleuré, ",
+      "J'ai été enveloppé d'humidité.",
+      "Ces fluides collants avaient déjà débordé, ",
+      "trempant à travers les plis du tissu et ",
+      "recouvrant les espaces entre mes doigts."
+    ],
+    "45": [
+      "J'ai essayé de tendre la main, ",
+      "mes doigts s'enfonçant dans les couches de tissu blanc amassé.",
+      "La sensation du tissage épais masquait complètement ",
+      "la tendresse en dessous.",
+      "à part la sensation écrasante de coton, ",
+      "Je ne pouvais rien sentir."
+    ],
+    "46": [
+      "Sans la barrière épaisse de son short, ",
+      "seule une fine couche de tissu blanc se tenait maintenant ",
+      "devant l'entrejambe de \\str[120].",
+      " ",
+      "J'ai reposé ma main dessus, ",
+      "frottant les monticules doux à travers son panty à mon gré,",
+      "sentant les vagues de chaleur corporelle rayonnant de dessous le tissu."
+    ],
+    "47": [
+      "Je suis ensuite allé un peu plus loin, ",
+      "encoinçant mes doigts entre les plis du panty",
+      "et sondant prudemment dans cette crête étroite."
+    ],
+    "48": [
+      "Puisque ses jus avaient depuis longtemps trempé à travers ",
+      "le tissu, mes doigts se sont enfoncés profondément dans la ",
+      "crevasse avec presque aucun effort du tout.",
+      " ",
+      "Une série d'épais, ",
+      "bruits de succion humides ont suivi chaque remuement de mes doigts."
+    ],
+    "49": [
+      "Malgré n'avoir atteint qu'une profondeur peu profonde,",
+      "mes bouts de doigts étaient déjà en contact tangible ",
+      "avec cette chair intérieure tendre.",
+      " ",
+      "La succion glissante et collante m'a laissé aspirant à ",
+      "sonder encore plus profondément à l'intérieur..."
+    ],
+    "50": [
+      "Je pensais que les enlever juste un peu me donnerait libre cours,",
+      "mais le tissu ennuyeux tout amassé ensemble, ",
+      "obstruant complètement la zone la plus critique.",
+      " ",
+      "Tout ce que je pouvais sentir était la texture sèche du tissage. ",
+      "la frustration de manquer la cible rendait mon cœur démangeant."
+    ],
+    "51": [
+      "Avec la dernière couche de tissu partie, ",
+      "la chatte de \\str[120] était maintenant affichée complètement nue devant mes yeux,",
+      "cette vue rose et tendre exigeant chaque once de mon attention."
+    ],
+    "52": [
+      "Retenant mon souffle, j'ai timidement étendu mon index, ",
+      "écartant soigneusement ces lèvres fermement fermées",
+      "pour que je puisse explorer encore plus profondément dans les moments à suivre."
+    ],
+    "53": [
+      "Trempées à plusieurs reprises par ses jus, ",
+      "ses lèvres étaient maintenant aussi douces que du pudding et si glissantes ",
+      "mes doigts ont presque glissé.",
+      " ",
+      "Avec une légère pression, ",
+      "Je pouvais sentir une inondation de fluide collant étant forcée hors ",
+      "entre mes doigts."
+    ],
+    "54": [
+      "La sensation contre mes doigts était ",
+      "impossiblement douce, glissante et délicate.",
+      " ",
+      " ",
+      "J'ai patiemment tracé toute la longueur de cette ",
+      "fente étroite de haut en bas,",
+      "sentant chaque courbe et pli."
+    ],
+    "55": [
+      "Bien que son panty ne soit pas entièrement enlevé, ",
+      "la chatte de \\str[120] avait perdu sa couverture.",
+      "Cette fente rose et fermement fermée gisait exposée, ",
+      "rayonnant des vagues de chaleur tentante."
+    ]
+  },
+  "9": {
+    "0": [
+      "D'abord, ",
+      "Je vais essayer de tirer ce camisole ennuyeux vers le bas un peu..."
+    ],
+    "1": [
+      "Je dois soigneusement glisser la bretelle sur le côté pour ",
+      "laisser tout le vêtement glisser de son épaule.",
+      "C'est l'étape la plus critique... ",
+      "le mouvement doit être lent, encore plus lent..."
+    ],
+    "2": [
+      "Le dernier bit d'obstruction est parti.",
+      "Alors que \\str[120] dort encore, ",
+      "enlevons-le complètement en une fois !"
+    ],
+    "3": [
+      "Commencez depuis le bord du short, ",
+      "les tirant vers le bas juste un peu..."
+    ],
+    "4": [
+      "C'est ça... juste comme ça. ",
+      "Continuez à tirer lentement, et bientôt, tout sera exposé—"
+    ],
+    "5": [
+      "J'ai atteint la base de ses cuisses.",
+      "En une burst d'énergie, ",
+      "enlevons ces shorts ennuyeux entièrement !"
+    ],
+    "6": [
+      "Pas bon, le short extérieur bloque tout. ",
+      "Je dois enlever la couche extérieure d'abord."
+    ],
+    "7": [
+      "Puisque je l'ai déjà déshabillée jusque-là, ",
+      "Je pourrais aussi bien enlever son panty aussi !"
+    ],
+    "8": [
+      "Alors que cette sensation enveloppée de 'cache-cache' est extrêmement charmante,",
+      "Je suis plus intéressé par ce qui est réellement sous ce tissu en ce moment...",
+      "Comme prévu, enlevons-les juste !"
+    ],
+    "9": [
+      "Appliquez un peu plus de force et tirez-les vers le bas encore plus...",
+      "Je pourrai voir l'endroit le plus privé de \\str[120] ",
+      "dans juste une seconde..."
+    ],
+    "10": [
+      "C'est le moment—",
+      "dévoilons cette dernière ligne de défense entièrement !"
+    ]
+  },
+  "12": {
+    "1": [
+      "\\str[120] n'a pas la meilleure constitution, ",
+      "mais son style de sommeil est incroyablement audacieux."
+    ],
+    "2": [
+      "\"Juste combien de retournements faut-il pour finir ",
+      "dans une pose bizarre comme ça... ?\""
+    ],
+    "3": [
+      "Puisque je suis tombé sur une vue si fraîche, ",
+      "devrais-je saisir l'occasion de faire quelque chose... ?"
+    ],
+    "4": [
+      "Soutenir ses fesses",
+      "Ajuster la pose de sommeil"
+    ],
+    "5": [
+      "Hmm... dans cette position, ",
+      "Je pourrais en fait être capable de le faire..."
+    ],
+    "6": [
+      "\"....................\""
+    ],
+    "7": [
+      "Sous ma manipulation, ",
+      "\\str[120] est posée d'une manière à la fois comique et séduisante."
+    ],
+    "8": [
+      "Même ainsi, elle dort toujours profondément sans signe de réveil...",
+      "J'ai l'impression que je pourrais faire un peu plus ?"
+    ],
+    "9": [
+      "Non, non, ressaisis-toi !",
+      "Comment pourrais-je traiter \\str[120] comme un jouet... !?"
+    ],
+    "10": [
+      "\"...Si elle dort comme ça, ",
+      "son corps sera trop douloureux pour bouger demain.\""
+    ],
+    "11": [
+      "Toucher la chatte",
+      "Toucher les fesses",
+      "Enlever le panty",
+      "Enlever le short",
+      "Ajuster la pose de sommeil"
+    ],
+    "12": [
+      "Alors que la dernière couverture est enlevée, ",
+      "le bas du corps de \\str[120] est mis à nu.",
+      "Cette chatte élégamment colorée et charnue est maintenant sans défense exposée ",
+      "sous la lumière et l'ombre."
+    ],
+    "13": [
+      "J'étais préparé pour ça,",
+      "mais voir \\str[120] complètement nue en bas",
+      "fait surgir une étrange impulsion dans mon cœur."
+    ],
+    "14": [
+      "Je ne peux pas m'empêcher de tendre mon doigt vers ",
+      "la partie la plus profonde de l'indentation...",
+      "Même si c'est encore une fleur tendre et bourgeonnante, ",
+      "elle semble posséder un pouvoir magique, s'accrochant fermement à mon doigt."
+    ],
+    "15": [
+      "Je retiens mon souffle, écartant timidement ces pétales fermés... \\w[60]",
+      "C'est ça, cette terre sacrée de \\str[120] que personne ",
+      "n'a encore foulée va être prise par moi... !"
+    ],
+    "16": [
+      "Tu ne peux pas me blâmer... ",
+      "c'est juste que les fesses arrondies de \\str[120] sont trop tentantes...",
+      "Je marmonne ces excuses auto-trompeuses dans ma tête ",
+      "alors que je tends la main."
+    ],
+    "17": [
+      "Même à travers une fine couche de tissu, ",
+      "Je peux clairement sentir le contour des fesses de \\str[120].",
+      " ",
+      " ",
+      "Pressant légèrement vers le bas, ",
+      "mes doigts s'enfoncent dans une masse de chair chaude et douce.",
+      "avec chaque massage doux, ",
+      "le corps sous le tissu donne un rebondissement complet."
+    ],
+    "18": [
+      "Comparé au short extérieur, ",
+      "ce panty à attaches latérales offre une quantité pitoyable de couverture.",
+      "Quand ma paume couvre complètement les fesses de \\str[120], mes doigts facilement ",
+      "franchissent le bord du tissu, reposant directement contre sa peau."
+    ],
+    "19": [
+      "Je glisse instinctivement mes doigts entre le panty de \\str[120] ",
+      "et ses fesses, frottant à plusieurs reprises.",
+      "J'apprécie de regarder les attaches devenir lâches et précaires ",
+      "sous mes doigts fouilleurs."
+    ],
+    "20": [
+      "\\nl< >\"Ugh... mmmgh...\""
+    ],
+    "21": [
+      "\\str[120] semble sentir l'anomalie dans son bas du corps ",
+      "et laisse échapper un murmure résistant.",
+      " ",
+      " ",
+      "Ce gémissement doux et apparemment peu désireux est comme ",
+      "un seau d'eau glacée versé directement sur mon cœur.",
+      "Je retire maladroitement ma main, n'osant pas faire un bruit."
+    ],
+    "22": [
+      "Heureusement, ",
+      "le sommeil lourd tire \\str[120] de retour dans ses rêves encore une fois.",
+      "J'expire lentement, avec le vent froid soufflant, ",
+      "mon cerveau chauffé se refroidit enfin.",
+      "Je bougeais définitivement trop vite juste maintenant. ",
+      "Arrêtons... ici pour l'instant."
+    ]
+  },
+  "Note": [
+    "(This note is for the translator only and does not need to be translated.)",
+    "If you notice strange gaps appearing in each line of text, those are placeholders.",
+    "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+    "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+    "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+    "as much as possible, a complete sentence appears within a single dialogue box.",
+    "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+    "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+  ]
+}

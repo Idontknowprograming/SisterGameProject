@@ -1,0 +1,38 @@
+{
+  "Receptiveness": {
+    "name": "\\str[120]'s Receptiveness",
+    "description": [
+      "Measures how receptive \\str[120] is to lewd requests from \\str[121].",
+      "The base score is calculated from the various Hearts \\str[120] currently has:",
+      "\\dimg[15] = 1    \\dimg[16] = 2",
+      "\\dimg[17] = 1    \\dimg[18] = 2",
+      "\\dimg[19] = 2    \\dimg[20] = 3",
+      "\\dimg[21] = 3",
+      "While in heat, gain an additional 2 points.",
+      "While in a good mood, randomly gain 0–2 points.",
+      "While in a bad mood, randomly lose 0–2 points.",
+      "\\str[120]'s current Receptiveness: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+    ]
+  },
+  "Koufun": {
+    "name": "Arousal",
+    "description": [
+      "Measures \\str[121]'s level of sexual desire.",
+      "A notification appears in the status bar when above 20.",
+      "Increases by engaging in naughty behavior or sleeping each day.",
+      "Certain events require a specific amount of Arousal.",
+      "Ejaculation immediately clears all Arousal and enters Sage Mode.",
+      "All stats are increased while in Sage Mode."
+    ]
+  },
+  "TraumaRescueTeam": {
+    "name": "Trauma Rescue Team",
+    "description": [
+      "\"Since you've sincerely called for our aid!\"",
+      "\"We'll graciously answer your plea!\"",
+      "Twin nurses who roam between worlds. Sign a contract with them to receive their rescue services.",
+      "When your HP reaches zero and the death sequence begins, the Trauma Rescue Team will automatically appear and attempt emergency resuscitation.",
+      "Rumor has it they don't even have medical licenses."
+    ]
+  }
+}

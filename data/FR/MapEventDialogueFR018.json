@@ -1,0 +1,46 @@
+{
+  "2": {
+    "0": [
+      "(...Qu'est-ce qui se passe ? La lumière du soleil est si forte !?",
+      "Et ça fait vraiment mal quand ça touche ma peau !!)"
+    ]
+  },
+  "4": {
+    "0": [
+      "Il est encore tôt dans la journée.",
+      "Je vais vraiment rentrer chez moi maintenant ?"
+    ],
+    "1": [
+      "Il reste encore un peu de temps avant le coucher du soleil…",
+      "Je vais vraiment rentrer chez moi maintenant ?"
+    ],
+    "2": [
+      "Il fait extrêmement chaud aujourd'hui.",
+      "Peut-être qu'il vaut mieux rentrer tôt... ?"
+    ],
+    "3": [
+      "Rentrer chez moi",
+      "Laisser tomber"
+    ]
+  },
+  "16": {
+    "0": [
+      " ",
+      " "
+    ]
+  },
+  "17": {
+    "0": [
+      "Il y a aussi une note à l'intérieur...     \\w[30]",
+      "Écrit dessus sont des mots si désordonnés qu'ils sont presque illisibles—"
+    ],
+    "1": [
+      "\\py[24]\"Ma jeunesse gît enterrée à l'intérieur...\"",
+      "\\w[60]"
+    ],
+    "2": [
+      "(Ça se sent si...",
+      "si insupportablement lourd...)"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+    "categories": {
+        "SLG": {
+            "Category Name": "Kí ức cùng với \\str[120]",
+            "New Scene Name": "",
+            "Trophy Description": "\\str[120] sẽ luôn là người quan trọng nhất"
+        },
+        "RPG": {
+            "Category Name": "Ký ức chiến đấu trong Vực Sâu",
+            "New Scene Name": "",
+            "Trophy Description": "Chiến đấu... tiếp tục chiến đấu!"
+        },
+        "Gacha": {
+            "Category Name": "Ký ức về những bộ sưu tập khác",
+            "New Scene Name": "",
+            "Trophy Description": "Nghe nói nếu thu thập tất cả, bạn có thể triệu hồi—"
+        },
+        "Ryouri": {
+            "Category Name": "Ký ức nấu ăn",
+            "New Scene Name": "",
+            "Trophy Description": "Nấu ăn mang lại hạnh phúc cho mọi người"
+        },
+        "Hentai": {
+            "Category Name": "Ký ức biến thái",
+            "New Scene Name": "",
+            "Trophy Description": "Ngọt ngào và cay đắng~Và mọi thứ đều tuyệt vời~"
+        }
+    },
+    "achievements": {
+        "WhereIsImouto": {
+            "Name": "Em gái đang ở đâu?",
+            "Description": "Phải tìm ra em gái mình yêu quý—",
+            "Pop Up Desc": [
+                "\\fs[21]Em gái của mình đâu rồi...?",
+                ""
+            ]
+        },
+        "ItsMyImouto": {
+            "Name": "Đó là em gái của tôi!",
+            "Description": "Em gái tôi yêu quý đang ở ngay trước mắt",
+            "Pop Up Desc": "Đó là em gái của tôi!"
+        },
+        "JoyStation V": {
+            "Name": "Đã có máy chơi game!",
+            "Description": "Giờ bạn có thể chơi game cùng \\str[120]!",
+            "Pop Up Desc": [
+                "\\fs[18]Dù đây chỉ là trò chơi ",
+                "Nhưng không được chơi như thế "
+            ]
+        },
+        "MyImoutoIsJustThatCute": {
+            "Name": "Em gái tôi đáng yêu đến thế đấy!",
+            "Description": "Tình cảm của em gái đã đạt đến đỉnh điểm!",
+            "Pop Up Desc": "\\fs[21]Em gái mình dễ thương quá!"
+        },
+        "ImoutoBodyPillow": {
+            "Name": "Gối ôm em gái",
+            "Description": "Giờ có thể để em gái ngồi lên đùi khi chơi game!",
+            "Pop Up Desc": [
+                "\\fs[22]Có em gái rồi ",
+                "thì còn cần thêm gì nữa?"
+            ]
+        },
+        "GachaIsBadCivilization": {
+            "Name": "Gacha là một nền văn minh tồi tệ!",
+            "Description": "Tiêu quá nhiều tiền vào gacha rồi bị em gái mắng...",
+            "Pop Up Desc": "\\fs[17]Gacha là một nền văn minh tồi tệ!"
+        },
+        "CanYouSendMe50K": {
+            "Name": "Cho em 50K dược không~?",
+            "Description": "Đã cho em gái hơn 50.000 tiền tiêu vặt trong một lần!",
+            "Pop Up Desc": "Cho em 50K nha~?"
+        },
+        "ShinkonSantaku": {
+            "Name": "Ba câu hỏi tân hôn!",
+            "Description": "Để em gái diễn lại một lần 'ba câu hỏi tân hôn'!",
+            "Pop Up Desc": "Ba câu hỏi tân hôn!"
+        },
+        "ToBeContinued": {
+            "Name": "To Be Continued",
+            "Description": "Đã ghi lại một khoảnh khắc kỳ diệu!",
+            "Pop Up Desc": "To Be Continued"
+        },
+        "PeopleDieIfTheyAreKilled": {
+            "Name": "Con người sẽ chết khi bị giết?",
+            "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
+            "Pop Up Desc": "\\fs[19]Con người sẽ chết khi bị giết?"
+        },
+        "HoardingHabit": {
+            "Name": "Thói Quen Tích Trữ",
+            "Description": "Đã bỏ một lượng lớn vật phẩm vào Cửa Thiên Tinh",
+            "Pop Up Desc": [
+                "\\fs[22]Tôi mắc một căn bệnh ",
+                "không tích đồ là sẽ chết "
+            ]
+        },
+        "TransportedToIsekai": {
+            "Name": "Chuyển sinh sang thế giới khác?",
+            "Description": "Bị xe van cửa hàng cán không thương tiếc...",
+            "Pop Up Desc": "\\fs[18]Chuyển sinh sang thế giới khác!?"
+        },
+        "YouAreAlreadyDead": {
+            "Name": "Khúc Cầu Hồn",
+            "Description": "Bị Thần Chết tuyên bố đã tử vong",
+            "Pop Up Desc": "Ngươi đã chết rồi"
+        },
+        "AirKing": {
+            "Name": "Vua Bầu Trời",
+            "Description": "\"Ngươi không muốn làm bạn với bầu trời sao!\"",
+            "Pop Up Desc": [
+                "\\fs[20]\"Ngươi không muốn trở thành ",
+                "bạn với bầu trời sao!\""
+            ]
+        },
+        "Shichosei": {
+            "Name": "Ngôi Sao Tử Vong",
+            "Description": "Bị ASABA hạ gục bằng tuyệt kỹ",
+            "Pop Up Desc": [
+                "\\fs[22]\"Ngươi thấy rồi chứ…",
+                "Ngôi sao báo tử đó!\""
+            ]
+        },
+        "ServantAndMaster": {
+            "Name": "Servants và Master",
+            "Description": "Điều khiển cùng lúc năm Servant",
+            "Pop Up Desc": [
+                "\\fs[18]\"Ta hỏi ngươi—Ngươi có phải là ",
+                "Master của chúng ta không?\""
+            ]
+        },
+        "BossFirstAppearance": {
+            "Name": "Hãy hoan nghênh sự ra đời của vị vua!",
+            "Description": "Đánh boss lần đầu tiên",
+            "Pop Up Desc": [
+                "\\fs[22]Hãy hoan nghênh ",
+                "Sự ra đời của vị vua!"
+            ]
+        },
+        "UnlimitedBladeWaste": {
+            "Name": "Lăng mộ kiếm vô tận",
+            "Description": "Phá hỏng hơn 100 vũ khí",
+            "Pop Up Desc": [
+                "\\fs[24]\"Ngươi có đủ vũ khí ",
+                "dự trữ để dùng không?\""
+            ]
+        },
+        "IJustWitnessedAPricelessPieceOfFootage": {
+            "Name": "Mình vừa được chứng kiến một khoảnh khắc vô giá.",
+            "Description": "Chứng kiến sự ra đời của Tiểu Tiên Táo",
+            "Pop Up Desc": [
+                "\\fs[21]Mình vừa được chứng kiến",
+                "một khoảnh khắc vô giá."
+            ]
+        },
+        "WhoNeedsAFishingRod": {
+            "Name": "Ai lại dùng cần câu nữa chứ?",
+            "Description": "Dùng bom làm nổ tung cá khỏi mặt nước 10 lần",
+            "Pop Up Desc": "\\fs[22]Ai lại dùng cần câu nữa chứ?"
+        },
+        "TheSwordSaintOfTheSticks": {
+            "Name": "Thập Lý Pha Kiếm Thần",
+            "Description": "Kết quả của việc luyện kiếm chăm chỉ mỗi ngày",
+            "Pop Up Desc": "Thập Lý Pha Kiếm Thần"
+        },
+        "ItWasToMeasureMyCapacity": {
+            "Name": "Để xem bản lĩnh của tôi tới đâu",
+            "Description": "Đã thành thạo kỹ năng của ninja",
+            "Pop Up Desc": "\\fs[18]Để xem bản lĩnh của tôi tới đâu"
+        },
+        "DonotYouEverStop": {
+            "Name": "Đừng bao giờ dừng lại!",
+            "Description": "Tiếp tục chạy với tốc độ cực nhanh ",
+            "Pop Up Desc": "Đừng bao giờ dừng lại!"
+        },
+        "YouAreBeingSummoned": {
+            "Name": "◉▽◉ Đang Triệu Hồi Bạn!",
+            "Description": "Sinh vật cổ đại đã được phát hiện!",
+            "Pop Up Desc": "\\fs[22]◉▽◉ Đang Triệu Hồi Bạn!"
+        },
+        "YouTooCanBecomeLight": {
+            "Name": "Bạn cũng có thể trở thành ánh sáng!",
+            "Description": "Lời nguyền của Aki bùng phát ",
+            "Pop Up Desc": [
+                "\\fs[24]Bạn cũng có thể ",
+                "Trở thành ánh sáng!"
+            ]
+        },
+        "ObtainWornPanties": {
+            "Name": "Quần lót chưa mặc thì vô giá trị!",
+            "Description": "Nhận được quần lót từ em gái~!",
+            "Pop Up Desc": [
+                "\\fs[24]Quần lót chưa mặc ",
+                "thì vô giá trị!"
+            ]
+        },
+        "ErogameWithImouto": {
+            "Name": "Siscon Vô Phương Cứu Chữa",
+            "Description": "Dùng máy chơi game để làm những chuyện dâm đãng trong phòng của em gái ",
+            "Pop Up Desc": "Chơi game với em gái?"
+        },
+        "Milkeddry": {
+            "Name": "Vắt cực khô...",
+            "Description": "Không... thật sự không còn một giọt nào sót lại nữa...",
+            "Pop Up Desc": [
+                "\\fs[22]\"Không... thật sự không còn",
+                "một giọt nào sót lại nữa...\""
+            ]
+        },
+        "StairwayToAdulthoodI": {
+            "Name": "Nấc Thang Trưởng Thành♥",
+            "Description": "Cho em gái đọc doujinshi khiêu dâm",
+            "Pop Up Desc": "\\fs[23]Nấc Thang Trưởng Thành♥"
+        },
+        "StairwayToAdulthoodII": {
+            "Name": "Nấc Thang Trưởng Thành♥♥",
+            "Description": "Rủ em gái dùng đồ chơi tình dục",
+            "Pop Up Desc": "\\fs[21]Nấc Thang Trưởng Thành♥♥"
+        },
+        "StairwayToAdulthoodIII": {
+            "Name": "Nấc Thang Trưởng Thành♥♥♥",
+            "Description": "Hãy dạy cho em gái những niềm vui của tình dục",
+            "Pop Up Desc": "\\fs[20]Nấc Thang Trưởng Thành♥♥♥"
+        }
+    }
+}

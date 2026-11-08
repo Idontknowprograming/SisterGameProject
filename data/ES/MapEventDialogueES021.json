@@ -1,0 +1,387 @@
+{
+    "1": {
+        "0": [
+            "Mmm, parece que no puedo dormirme..."
+        ],
+        "1": [
+            "Me duele el estómago... ¿Es indigestión?",
+            "Tal vez la cena fue demasiado después de todo..."
+        ],
+        "2": [
+            "¡Ah, me desperté de repente...!"
+        ],
+        "3": [
+            "Todavía es media noche.",
+            "Puedo dormir un poco más...\\w[30].\\w[30].\\w[30]",
+            "¿Debería ir a ver a mi hermana?"
+        ],
+        "4": [
+            "A la habitación de \\str[120]",
+            "Duerme"
+        ],
+        "5": [
+            "¿Vas a dormir hasta la mañana...?"
+        ],
+        "6": [
+            "Duerme",
+            "Espera"
+        ],
+        "7": [
+            "\"¡Ahhhhhhhhhhh—!\""
+        ],
+        "8": [
+            "¿Q-Qué? Oh, solo fue una pesadilla..."
+        ],
+        "9": [
+            "Eso me asustó muchísimo... ",
+            "Creo que vi una versión realmente aterradora de \\str[120]."
+        ],
+        "10": [
+            "…Debería ir a ver a \\str[120]",
+            "¿Y si ese sueño—"
+        ],
+        "11": [
+            "Sí, ese sueño fue muy aterrador...",
+            "Es mejor descansar un poco temprano..."
+        ]
+    },
+    "2": {
+        "0": [
+            "\\c[10]—Solicitud de actualización de datos detectada de la versión \\str[1]. \\w[60]",
+            "¿Quieres realizar la actualización automática ahora?"
+        ],
+        "1": [
+            "Iniciar actualización",
+            "No importa"
+        ],
+        "2": [
+            "...¿Ya es de mañana? ",
+            "Siento que tuve algún tipo de sueño sobre ",
+            "mi hermanita, ",
+            "pero no puedo recordarlo..."
+        ],
+        "3": [
+            "...¿Ya es de mañana? ",
+            "No siento que haya dormido bien..."
+        ],
+        "4": [
+            "Ah,¿Ya es de mañana? Dormí muy bien."
+        ],
+        "5": [
+            "Hace un día bonito hoy... ¿eh? ",
+            "¿Parece que el sol es demasiado intenso?"
+        ],
+        "6": [
+            "Hace un día bonito hoy."
+        ],
+        "7": [
+            "El tiempo no pinta muy bien hoy."
+        ],
+        "8": [
+            "¿Está lloviendo?",
+            "Espero que no afecte nuestra aventura..."
+        ],
+        "9": [
+            "Llevo unos días sin ver a mi hermana...",
+            "Creo que debería pasarme hoy."
+        ],
+        "10": [
+            "Bueno, ya estoy despierto. ¿Cuál es el plan para hoy?"
+        ],
+        "11": [
+            "A la habitación de \\str[120]",
+            "Salir ya"
+        ],
+        "12": [
+            "Bueno, ¡vamos a ver cómo está \\str[120]!"
+        ],
+        "13": [
+            "Bueno, es hora de poner todo en orden",
+            "¡y salir a la aventura!"
+        ],
+        "14": [
+            "\"Mmm... De todos modos, el clima no pinta muy bien hoy.",
+            "En momentos como este, quedarme en casa y pasar tiempo con \\str[120]",
+            "definitivamente es mucho más divertido...\""
+        ],
+        "15": [
+            "\"Haa... Hoy me siento muy perezoso,",
+            "no encuentro ni un poquito de motivación.",
+            "No debería haber ningún problema en holgazanear con la conciencia tranquila",
+            "de vez en cuando, ¿verdad?",
+            "Comparado con los asuntos triviales de afuera,",
+            "quedarme en casa con \\str[120] es mucho más divertido.\""
+        ]
+    },
+    "4": {
+        "0": [
+            "\"...¡¿Eh!?\\w[60]...Espera, \\w[60]",
+            "¿ya es de mañana...?\""
+        ],
+        "1": [
+            "Tengo la cabeza mareada... ",
+            "¿Me quedé dormido así anoche...?"
+        ],
+        "2": [
+            "\"No puedo recordar qué pasó anoche... \\w[90]",
+            "Bueno, probablemente estaba demasiado cansado.\""
+        ]
+    },
+    "3": {
+        "0": [
+            "Mi mente se aclara lentamente...",
+            "Finalmente me doy cuenta de que no estoy en mi habitación habitual.",
+            "Algo cálido y suave está fuertemente presionado contra mí,",
+            "su respiración rítmica y suave."
+        ],
+        "1": [
+            "Es solo \\str[120]...",
+            "Los recuerdos comienzan a inundar mi mente—         \\w[120]",
+            "Cierto, los dos estuvimos enredados el uno con el otro",
+            "hasta entrada la noche..."
+        ],
+        "2": [
+            "Mirando su rostro dormido e indefenso,",
+            "que aún conserva un leve rubor del resplandor de anoche,",
+            "no puedo evitar estirar la mano, las yemas de mis dedos hundiéndose suavemente",
+            "en su cabello, suave como la seda."
+        ],
+        "3": [
+            "\\nl< >\"Uu... mm... ♥\""
+        ],
+        "4": [
+            "Como si sintiera el afecto, deja escapar un tarareo difuso y",
+            "satisfecho, frotándose subconscientemente contra mi palma."
+        ],
+        "5": [
+            "\"Ya es de mañana. ¿Puedes levantarte?\""
+        ],
+        "6": [
+            "Le doy un empujoncito suave en el hombro,",
+            "intentando despertarla de su sueño."
+        ],
+        "6.5": [
+            "\\nl< >\".................. Nnn.\""
+        ],
+        "7": [
+            "Después de que sus largas pestañas aletean unas cuantas veces,",
+            "finalmente abre los ojos lentamente.",
+            " ",
+            " ",
+            "Mira fijamente al vacío por un momento,",
+            "luego inclina la cabeza para mirarme justo a su lado,",
+            "sus pupilas llenas de la neblina del sueño."
+        ],
+        "8": [
+            "\\nl< >\"¿Eh...? ¿\\str[121]...?     \\w[150]",
+            "¿Por qué... estás en la cama también...?\""
+        ],
+        "9": [
+            "Parece que su cerebro aún no ha terminado de encenderse,",
+            "solo inclina la cabeza, mirándome tontamente durante un largo rato."
+        ],
+        "10": [
+            "No es sino hasta que los recuerdos fragmentados de anoche",
+            "se reconstruyen que la sangre sube a sus mejillas",
+            "a una velocidad visible."
+        ],
+        "11": [
+            "\\nl< >\"Uu... ♥                   \\w[120]",
+            "B-Buenos días... \\str[121]...    \\w[120]",
+            "Sobre lo de anoche... este... gracias...\""
+        ],
+        "12": [
+            "Completamente sin saber cómo manejar una situación tan vergonzosa,",
+            "simplemente agacha la cabeza,",
+            "susurrando unas palabras de agradecimiento un poco sin sentido."
+        ],
+        "13": [
+            "La atmósfera se vuelve sutil e íntima.",
+            "Nos vestimos en silencio dándonos la espalda,",
+            "luego, manteniendo un entendimiento tácito indescriptible,",
+            "caminamos juntos hacia el baño."
+        ],
+        "14": [
+            "\\nl< >\"...Mmuu... nya...♥         \\w[120]",
+            "\\str[121]... ahí no... no está bien...\""
+        ],
+        "15": [
+            "Solo dejó escapar un murmullo sofocado,",
+            "abrazando su almohada y hundiendo aún más el rostro."
+        ],
+        "16": [
+            "Aunque me da curiosidad qué clase de sueño maravilloso estará teniendo,",
+            "como todavía está profundamente dormida,",
+            "es mejor no obligarla a despertarse..."
+        ],
+        "17": [
+            "El esfuerzo de anoche fue una carga demasiado grande para su cuerpo después de todo,",
+            "debería dejarla dormir un poco más..."
+        ],
+        "18": [
+            "Aguantando la respiración,",
+            "despego suavemente su brazo que aún está envuelto alrededor de mí,",
+            "saliendo de la cálida cama sin hacer un solo ruido."
+        ],
+        "19": [
+            "Echando una última mirada a su perfil tranquilo,",
+            "ligeramente pálido bajo la luz de la mañana,",
+            "salgo silenciosamente de la habitación y cierro la puerta con suavidad."
+        ],
+        "20": [
+            "Observando su rostro dormido e indefenso, aunque sé que necesita descansar,",
+            "el silencio único de esta mañana y el aroma que emana de ella",
+            "no dejan de provocar mi cordura."
+        ],
+        "21": [
+            "Mi intención era solo acariciarle la cabeza,",
+            "pero mis dedos se deslizan involuntariamente por su cuello delgado.",
+            "Desde su hombro redondeado hasta la leve curva de su cintura,",
+            "siento con avidez cada centímetro de su piel."
+        ],
+        "22": [
+            "\\nl< >\"...Hnngh ♥      \\w[180]",
+            "Uu... nnh... ah... ♥\""
+        ],
+        "23": [
+            "Incluso mientras dormía, su cuerpo que acababa de perder la inocencia",
+            "ya reaccionaba a mi contacto.",
+            "Dejó escapar unos cuantos gemidos inconscientes al sentir",
+            "el calor que emanaba de la yema de mis dedos."
+        ],
+        "24": [
+            "¡...No! ¡¿En qué estoy pensando?!",
+            "¿Cómo podría hacerle esto tan temprano por la mañana...?",
+            "¡Será mejor que me levante de una vez!"
+        ],
+        "25": [
+            "\\nl< >\"Toque... toque...\""
+        ],
+        "26": [
+            "Mi conciencia aún flotaba en el límite de una neblina adormilada,",
+            "cuando susurros claros y suaves llegaron a mis oídos,",
+            "acompañados de toques intermitentes en mi mejilla."
+        ],
+        "27": [
+            "\\nl< >\"Toque... toque...      \\w[150]",
+            "\\str[121] no despierta para nada...\""
+        ],
+        "28": [
+            "Se sentía como si alguien a mi lado estuviera dando toquecitos",
+            "y dando golpecitos en mi rostro sin cansarse."
+        ],
+        "29": [
+            "\"Pellizco... Ahora te tengo atrapada la nariz...        \\w[150]",
+            "¿Cuántos segundos aguantarás, \\str[121]~?\""
+        ],
+        "29.2": [
+            "Mi respiración se volvió difícil en un instante.",
+            "Podía sentir a alguien pellizcándome las fosas nasales con dos dedos,",
+            "e incluso podía escuchar sus respiraciones cortas",
+            "y rápidas mientras reprimía una risa."
+        ],
+        "29.4": [
+            "............Es \\str[120], ¿verdad?",
+            "Los recuerdos comenzaron a inundar mi mente—",
+            "Cierto, terminamos durmiendo juntos anoche."
+        ],
+        "30": [
+            "Me sorprendió que se hubiera despertado antes que yo,",
+            "pero ante una broma tan linda,",
+            "no tenía intención de delatarme todavía."
+        ],
+        "31": [
+            "Inhalé profundamente en secreto por la boca,",
+            "que no estaba tapada,",
+            "luego concentré toda mi energía en la nariz",
+            "¡y solté una ráfaga de aire repentina y fuerte!"
+        ],
+        "32": [
+            "\\{\\nl< >\"¡W-Waaah~~! ¡¿\\str[121] explotó~~!?\"",
+            "\\w[90] "
+        ],
+        "33": [
+            "La fuerza repentina actuó como una bomba de aire en miniatura,",
+            "haciendo saltar sus dedos al instante.",
+            "Sin esperar esto, \\str[120] dejó escapar un grito que",
+            "era una mezcla de sorpresa y emoción."
+        ],
+        "34": [
+            "\\nl< >\"...Pero todavía no despierta~     \\w[120]",
+            "Qué raro, ¿acaso eso fue solo un estornudo?\""
+        ],
+        "35": [
+            "\\nl< >\"Toque... toque...    \\w[150]",
+            "\\str[121] no tiene intenciones de despertarse~\""
+        ],
+        "36": [
+            "Viendo que permanecía sin responder con los ojos cerrados,",
+            "se inclinó con un toque de frustración,",
+            "sus dedos probando inquietos los bordes de mis labios una vez más."
+        ],
+        "37": [
+            "\\{\"¡¡Gawuu~~~~!!\"     \\w[60]\\^"
+        ],
+        "38": [
+            "En el momento en que las yemas de sus dedos se acercaron a mi boca de nuevo,",
+            "aproveché la oportunidad y me atrapé su dedo,",
+            "tomándolo entero dentro de mi boca."
+        ],
+        "39": [
+            "\\{\\nl< >\"¡¿Wueeeeee~~!? ¡Me mordió—    \\w[90]",
+            "No, ¡me está lamiendo~~!\""
+        ],
+        "40": [
+            "\\nl< >\"¡\\str[121]!",
+            "¡Has estado despierto todo este tiempo, ¿verdad~?!   \\w[90]",
+            "¡Suelta mi mano de una vez~~!\""
+        ],
+        "41": [
+            "Habiendo sido contraatacada por segunda vez,",
+            "\\str[120] dejó escapar otro chirrido de sorpresa.",
+            "A estas alturas, claramente se dio cuenta de que habían estado jugando con ella",
+            "desde el mismísimo principio."
+        ],
+        "42": [
+            "\"¡Niña insolente!",
+            "¡Atreverse a invadir la guarida del dragón,",
+            "prepárate para ser devorada!\""
+        ],
+        "43": [
+            "Sintiendo que era el momento adecuado, abrí los ojos de golpe.",
+            "Incluso con su dedo aún en mi boca,",
+            "usé a propósito una voz grave para dejar escapar un gruñido como el de un monstruo."
+        ],
+        "44": [
+            "\\nl< >\"¡No le tengo miedo a eso para nada~!",
+            "¡El Gran Dragón Malvado estaba durmiendo como un tronco hace un segundo...!\""
+        ],
+        "45": [
+            "\\str[120] se retorció y luchó bajo las cobijas,",
+            "reaccionando a la sensación resbaladiza y con cosquillas contra su dedo.",
+            "En sus risitas claras y satisfechas, no había ni el más mínimo rastro de miedo."
+        ],
+        "46": [
+            "Esta apariencia indefensa y completamente vulnerable suya",
+            "hizo que el deseo reprimido a lo largo de la noche",
+            "aumentara hasta su punto máximo en este preciso momento—"
+        ],
+        "47": [
+            "\"¡Rawr—! ¡El Dragón entra en acción!\""
+        ],
+        "48": [
+            "\\nl< >\"Jajahaha... ¡me da cosquillas!",
+            "\\str[121]... ¡detente!",
+            "Ahí no... ¡jaja, jajahaha!\""
+        ],
+        "49": [
+            "...Seguramente hoy también será otro día pacífico y tranquilo.",
+            "Continué lamiendo el costado de su cuello y el lóbulo de su oreja,",
+            "que se habían calentado por su rubor.",
+            "\\w[30]",
+            "Escuchando su encantadora risa,",
+            "recé desde el fondo de mi corazón para que",
+            "esta vida pudiera durar para siempre..."
+        ]
+    }
+}

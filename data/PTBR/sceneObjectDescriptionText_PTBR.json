@@ -1,0 +1,117 @@
+{
+  "0": [
+    "✦Uma xícara que \\str[120] gosta muito",
+    "com a participação de um desenho de uma coelha estranha. ",
+    "Parece ser um best-seller na NLCH."
+  ],
+  "1": [
+    "✦Uma pequena lanterna deixada pelo pai,",
+    "parece ser uma ferramenta de alquimista.",
+    "É muito durável apesar de sua idade e ",
+    "gera uma luz quente e confortável."
+  ],
+  "2": [
+    "✦Uma luz noturna bonita com uma luz fraca,",
+    "perfeita para ser usada quando acordar",
+    "para ir ao banheiro no meio da noite. "
+  ],
+  "3": [
+    "✦Uma planta folhosa chamada \"Ficus umbellata”.",
+    "Ela está prosperando e parece que \\str[120] cuida ",
+    "muito bem dela todo dia."
+  ],
+  "4": [
+    "✦Uma planta folhosa chamadas \"Pothos”.",
+    "Ela não parece estar muito saudável,  ",
+    "então str[120] colocou ela perto da janela.",
+    "Devo dizer a ela que potos na verdade ",
+    "não gosta da luz do sol...? "
+  ],
+  "5": [
+    "✦Alguns livros que a \\str[120] escolheu ",
+    "do escritório de seu pai.",
+    "Eles são em maioria livros de filosofia e ",
+    "completamente incompreensíveis.  "
+  ],
+  "6": [
+    "✦Pegou um galho de vidoeiro seco no ",
+    "caminho para casa —eu pensei que ele parecia legal, ",
+    "então mostrei ele para \\str[120].",
+    "Ela calmamente o colocou num vaso."
+  ],
+  "7": [
+    "✦Um esboço de pássaro desenhado por \\str[120], ",
+    "aparentemente baseado em pássaros que ela avistou ",
+    "enquanto olha pela janela."
+  ],
+  "8": [
+    "✦Um ventilador pequeno e antigo, com vento fraco. ",
+    "Você precisa chegar bem próximo para ",
+    "sentir um brisa fresca.  "
+  ],
+  "9": [
+    "✦Um secador de cabelo de ponta com ",
+    "uma incrível potência.",
+    "Se você aponta para o seu rosto, você sente",
+    "como se o vento pudesse descolar sua pele do corpo."
+  ],
+  "10": [
+    "✦Uma banheiro que com controle ajustável ",
+    "de temperatura, mas com uma faixa de temperatura entre 99°C até -10°C...",
+    "Está realmente tudo bem?  "
+  ],
+  "11": [
+    "✦Um xampu com fragrância de frutas que \\str[120] ama.",
+    "Ele faz seu cabelo ficar super sedo, ",
+    "mas acaba rápido demais.",
+    "Restando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'xampu'])}%"
+  ],
+  "12": [
+    "✦Parece ser a roupa íntima ",
+    "a \\str[120] acabou de despir...",
+    "Está cuidadosamente dobrada."
+  ],
+  "13": [
+    "✦Um videogame lendário que atualmente é extremamente raro.",
+    "Possuir um faria de você uma lenda entre os jogadores.  "
+  ],
+  "14": [
+    "✦Uma boneca que o pai deu de presente para \\str[120] ",
+    "em seu aniversário. Ela valoriza ela profundamente ",
+    "inestimável pra ela e sempre está ao seu lado."
+  ],
+  "15": [
+    "\\fr\\fs[20]\\c[10]Círculo Mágico Perdido",
+    "\\fs[22]\\i[16]???\\fr",
+    "✦Um Espaço de Outro Mundo criado por ",
+    "uma carta mágica herdada do pai.",
+    "Completamente não afetados pelo tempo, ",
+    "os itens armazenados aqui nunca desaparecem.",
+    "Este círculo também está conectado à entrada de casa,",
+    "permitindo um retorno estável e seguro.",
+    "Se isso foi ou não deliberadamente concebido pelo pai, ",
+    "prevendo a inevitável descida do filho ",
+    "para o abismo, é agora desconhecido..."
+  ],
+  "16": [
+    "\\fr\\fs[28]\\c[114]Grande Labirinto",
+    "\\fr\\fs[22]\\i[16]???",
+    "A lenda fala de corredores abandonados pelos deuses, ",
+    "que se estendem aqui até o infinito.",
+    "Sob cúpulas em ruínas e vinhas antigas e entrelaçadas, ",
+    "o brilho de uma civilização perdida ainda permanece.",
+    "Incontáveis aventureiros se aventuraram em seu interior, para nunca mais retornar—",
+    "O Labirinto não recusa nenhum visitante; ele apenas decide quem pode partir. "
+  ],
+  "17": [
+    "✦Uma TV de 85 polegadas construída com tecnologia de ponta.",
+    "No entanto, ela não recebe muitos canais de ",
+    "transmissão. Para assistir a programas mais interessantes,",
+    "é preciso dar um jeito de conseguir algumas fitas de vídeo."
+  ],
+  "18": [
+    "✦A calcinha que a \\str[120] acabou de tirar.",
+    "Ainda conserva o calor do corpo dela, e aquela pequena ",
+    "parte de tecido no meio parece estar encharcada."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "2": {
+    "0": [
+      "(...¿Qué está pasando? ¡¿El sol está tan fuerte?!",
+      "¡¡Y realmente me duele cuando me da en la piel!!)"
+    ]
+  },
+  "4": {
+    "0": [
+      "Todavía es temprano.",
+      "¿De verdad voy a regresar a casa ahora?"
+    ],
+    "1": [
+      "Aún falta un poco para que se ponga el sol...",
+      "¿De verdad voy a regresar a casa ahora?"
+    ],
+    "2": [
+      "Hace muchísimo calor hoy.",
+      "¿Tal vez sea mejor volver temprano...?"
+    ],
+    "3": [
+      "Ir a casa",
+      "Quedarme un poco más"
+    ]
+  },
+  "16": {
+    "0": [
+      " ",
+      " "
+    ]
+  },
+  "17": {
+    "0": [
+      "También hay una nota adentro...     \\w[30]",
+      "Tiene escritas unas palabras tan desordenadas",
+      "que son casi ilegibles—"
+    ],
+    "1": [
+      "\\py[24]\"Mi juventud yace enterrada aquí...\"",
+      "\\w[60]"
+    ],
+    "2": [
+      "(Eso se siente tan...",
+      "tan insoportablemente pesado...)"
+    ]
+  }
+}
